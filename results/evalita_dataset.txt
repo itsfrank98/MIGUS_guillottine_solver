@@ -1,0 +1,1409 @@
+Id: 1
+Solution: estero
+['accetto', 'concederà', 'penitenza', 'estero', 'colombiano', 'conformità', 'applicabile', 'stabiliva', 'ritira', 'minuto']
+
+Id: 2
+Solution: richiesta
+['dimostrò', 'parecchio', 'dimostra', 'scenografia', 'transazione', 'rimaneva', 'mando', 'carisma', 'assicurando', 'gnostici']
+
+Id: 16
+Solution: pietra
+['concepite', 'mamma', 'parlando', 'povero', 'mestiere', 'pronunciato', 'visto', 'bara', 'dice', 'prendeva']
+
+Id: 17
+Solution: emergenza
+['emergenza', 'autostradale', 'entrata', 'controlla', 'dottori', 'ingresso', 'vedrà', 'opposta', 'azzurra', 'travolto']
+
+Id: 18
+Solution: rivoluzione
+['rivoluzione', 'comparve', 'lancerà', 'presenteranno', 'rinviata', 'nasceva', 'tenne', 'ribattezzato', 'celebrato', 'uscirà']
+
+Id: 19
+Solution: ragione
+['tenuta', 'trattava', 'tenevano', 'assicurazioni', 'ristrutturare', 'occupò', 'ragione', 'agendo', 'riuscita', 'danneggiando']
+
+Id: 20
+Solution: sentiero
+['oltreoceano', 'mondiale', 'russe', 'garantivano', 'svedesi', 'dichiarare', 'sentiero', 'inglesi', 'chiamano', 'evitato']
+
+Id: 21
+Solution: antenna
+['fabbricati', 'laterale', 'mini', 'conduce', 'parete', 'termina', 'terminale', 'emergenza', 'privo', 'continua']
+
+Id: 22
+Solution: tigre
+['tigre', 'carrozza', 'vedo', 'suole', 'impediva', 'amava', 'deciso', 'camminare', 'sappia', 'recava']
+
+Id: 23
+Solution: delitto
+['considerare', 'sostanza', 'giusto', 'frutto', 'minaccia', 'intende', 'cosa', 'materiale', 'prevede', 'malattia']
+
+Id: 24
+Solution: corsa
+['corsa', 'corrispondeva', 'essenza', 'proprietaria', 'inventata', 'spaventato', 'amo', 'sfilata', 'rubare', 'fatica']
+
+Id: 25
+Solution: capanna
+['riempito', 'vuoti', 'nascosta', 'tagliare', 'diametro', 'apre', 'gambe', 'dotato', 'dotati', 'utilizzando']
+
+Id: 26
+Solution: segno
+['finendo', 'rompe', 'preziosa', 'finisce', 'destinata', 'farà', 'facendo', 'finì', 'fa', 'ritrovata']
+
+Id: 27
+Solution: evasione
+['sociale', 'prefigura', 'allude', 'assenti', 'dettato', 'evasione', 'ignorato', 'rispecchia', 'descrive', 'implicito']
+
+Id: 28
+Solution: sveglia
+['rinuncerà', 'occorrente', 'copricapi', 'avvertimento', 'continua', 'decorativa', 'alloggio', 'irreale', 'fingere', 'fiaccola']
+
+Id: 29
+Solution: misto
+['misto', 'rincontra', 'apportando', 'filo', 'unisce', 'celebrò', 'nascerà', 'riportò', 'tramutata', 'funse']
+
+Id: 30
+Solution: comunicazione
+['comunicazione', 'discussione', 'tortura', 'quarantena', 'vedo', 'comodo', 'accessibile', 'spostate', 'sancendo', 'comunicare']
+
+Id: 31
+Solution: pollice
+['ripetitivo', 'parole', 'presenterà', 'utilizza', 'togliendo', 'progredire', 'assimilabile', 'vettore', 'adopera', 'accomuna']
+
+Id: 32
+Solution: lana
+['lana', 'spada', 'partono', 'chiusa', 'ferro', 'protegge', 'assomiglia', 'sottile', 'passando', 'incise']
+
+Id: 33
+Solution: cinema
+['cinema', 'immaginò', 'debuttante', 'continuerà', 'autogol', 'serenata', 'immagina', 'birra', 'mimi', 'brutta']
+
+Id: 34
+Solution: esercito
+['esercito', 'doppie', 'marchio', 'permesso', 'termine', 'eroe', 'scudo', 'maschera', 'costretto', 'preparato']
+
+Id: 35
+Solution: sede
+['riconosceva', 'ufficio', 'informare', 'domicilio', 'chiedeva', 'dichiarava', 'dichiarò', 'assistiti', 'rappresentante', 'organo']
+
+Id: 36
+Solution: collo
+['collo', 'naso', 'polpaccio', 'gomito', 'gambe', 'spesso', 'mandibola', 'cranio', 'mano', 'polso']
+
+Id: 37
+Solution: militare
+['militare', 'collegiale', 'auditore', 'ecclesiastica', 'incorso', 'universitaria', 'finì', 'rovinando', 'fallimentare', 'ritirato']
+
+Id: 38
+Solution: evidenza
+['evidenza', 'investigazione', 'finzione', 'prova', 'discussione', 'disamina', 'documentare', 'raccontare', 'pensavo', 'conoscenza']
+
+Id: 39
+Solution: novecento
+['va', 'espasperanti', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe']
+
+Id: 40
+Solution: terra
+['terra', 'togliere', 'verde', 'ritrova', 'tocca', 'nero', 'trovasse', 'discese', 'tiene', 'leone']
+
+Id: 41
+Solution: rispetto
+['ignobile', 'gradisce', 'infame', 'ascolta', 'pensavo', 'osservava', 'estranea', 'aiutava', 'convive', 'informativa']
+
+Id: 42
+Solution: colloquio
+['colloquio', 'remunerazione', 'alunni', 'consulenti', 'ricercatori', 'traduttori', 'studenti', 'imprenditori', 'colleghe', 'laureati']
+
+Id: 43
+Solution: livello
+['imminente', 'rappresentarono', 'coordinando', 'corre', 'completò', 'carovana', 'rappresentava', 'ideale', 'livello', 'constatato']
+
+Id: 44
+Solution: assente
+['allarmato', 'assente', 'trasmetteva', 'comunicatore', 'disapprovazione', 'trasmettono', 'affetto', 'mandava', 'severità', 'trasmette']
+
+Id: 45
+Solution: cinquanta
+['wave', 'bordeaux', 'recitazione', 'bike', 'soul', 'preferendo', 'collaborò', 'emerse', 'vedrà', 'decise']
+
+Id: 46
+Solution: volta
+['rovinando', 'tagliar', 'sembri', 'abbracciando', 'culo', 'botta', 'rischiando', 'giù', 'inferno', 'casino']
+
+Id: 47
+Solution: stazione
+['danubio', 'troncone', 'ufficio', 'guarnigione', 'retroguardia', 'verga', 'riga', 'sezione', 'sommità', 'stazione']
+
+Id: 48
+Solution: rendimento
+['rendimento', 'sfidato', 'alternativo', 'stimava', 'innalzava', 'eredita', 'evocati', 'pensionato', 'offerto', 'posseduto']
+
+Id: 49
+Solution: pianista
+['informa', 'fornite', 'entrano', 'locale', 'campana', 'reca', 'dotata', 'consiglia', 'possedeva', 'mani']
+
+Id: 50
+Solution: romanzo
+['quiz', 'colora', 'romanzo', 'custodisce', 'racconto', 'conserva', 'narrato', 'mistero', 'conservate', 'rimandano']
+
+Id: 51
+Solution: piazza
+['arsenale', 'reputazione', 'mostra', 'piazza', 'entusiasmo', 'perizia', 'tristezza', 'sorpresa', 'piatto', 'attenzione']
+
+Id: 52
+Solution: dono
+['dono', 'prepara', 'estrema', 'chimica', 'misterioso', 'offre', 'sfrutta', 'tende', 'preferisce', 'eroica']
+
+Id: 53
+Solution: legno
+['fiorita', 'panino', 'sfumato', 'tendente', 'colorata', 'artigianale', 'tenera', 'cioccolato', 'accostamento', 'legno']
+
+Id: 54
+Solution: contratto
+['contratto', 'allenare', 'accetti', 'accettò', 'rifiutato', 'accettando', 'rifiutava', 'rifiuta', 'qualunque', 'accettato']
+
+Id: 55
+Solution: corso
+['corso', 'ritardò', 'affacciati', 'rincontrano', 'raddoppiarono', 'adozione', 'accampò', 'navigò', 'creava', 'h']
+
+Id: 56
+Solution: mezzanotte
+['stanca', 'mezzanotte', 'chiede', 'stia', 'crociata', 'fuggire', 'propone', 'cena', 'perdono', 'dice']
+
+Id: 57
+Solution: profondità
+['consistette', 'fisiologico', 'induttivo', 'profondità', 'antropologico', 'permea', 'riconduce', 'corrente', 'estetico', 'religioso']
+
+Id: 58
+Solution: polvere
+['sparisce', 'siede', 'polvere', 'seduto', 'pensando', 'leone', 'tramonto', 'nascosto', 'desiderio', 'finisce']
+
+Id: 59
+Solution: telefono
+['variegato', 'sfogo', 'passeggio', 'fischiare', 'campo', 'risucchiato', 'recinto', 'telefono', 'decoro', 'libretto']
+
+Id: 60
+Solution: dettaglio
+['dettaglio', 'cocaina', 'insufficiente', 'deficit', 'inadeguata', 'fai', 'cliente', 'crescente', 'movimentazione', 'preteso']
+
+Id: 61
+Solution: sonno
+['sonno', 'palco', 'reparto', 'richiede', 'posizionamento', 'lavoro', 'pagamento', 'vide', 'continuano', 'pacchetto']
+
+Id: 62
+Solution: stomaco
+['tira', 'ventre', 'immerso', 'avverte', 'sentiva', 'condizionato', 'petto', 'braccia', 'sente', 'gamba']
+
+Id: 63
+Solution: patria
+['insegnò', 'patria', 'insegnando', 'insegnato', 'obbedire', 'docente', 'regnare', 'ammesso', 'dio', 'continuato']
+
+Id: 64
+Solution: scale
+['calate', 'scale', 'comunicazioni', 'vuota', 'rompendo', 'tappeto', 'massi', 'ring', 'tende', 'braccia']
+
+Id: 65
+Solution: marinaio
+['marinaio', 'tricorno', 'elmetto', 'soldato', 'arciere', 'carabiniere', 'cappotto', 'cowboy', 'camminamento', 'prete']
+
+Id: 66
+Solution: spiaggia
+['scialle', 'finalisti', 'mutande', 'offrendogli', 'spiaggia', 'australiana', 'sfortunata', 'egiziana', 'ritirare', 'offrì']
+
+Id: 67
+Solution: cambio
+['raccomandata', 'comunicargli', 'raccomandazione', 'stralcio', 'spedita', 'indicata', 'scrivo', 'scrivania', 'riportava', 'dichiarava']
+
+Id: 68
+Solution: successo
+['fardello', 'desidera', 'rischiare', 'vergognoso', 'rischia', 'supereroe', 'sé', 'rinfaccia', 'farò', 'intuisce']
+
+Id: 69
+Solution: volume
+['rilasciata', 'ripartire', 'veicoli', 'regolazione', 'misto', 'mix', 'alimenta', 'entrano', 'ridurre', 'rifiuti']
+
+Id: 70
+Solution: ala
+['ala', 'collegata', 'ali', 'sinistra', 'entra', 'destra', 'fianco', 'trasformata', 'colpisce', 'verde']
+
+Id: 71
+Solution: scuola
+['pazzi', 'cmq', 'spero', 'dando', 'andranno', 'chiedo', 'scrivono', 'scomparsi', 'rovinato', 'tormentato']
+
+Id: 72
+Solution: birra
+['birra', 'piatto', 'sera', 'pane', 'preparazione', 'fontana', 'retta', 'arriva', 'sviluppata', 'particolare']
+
+Id: 73
+Solution: carte
+['carte', 'facile', 'carta', 'password', 'presta', 'nacque', 'modalità', 'consentono', 'bilancia', 'merita']
+
+Id: 74
+Solution: quarta
+['progressione', 'obliqua', 'individuata', 'terminale', 'medesima', 'decorre', 'opposta', 'scalette', 'calarono', 'verticale']
+
+Id: 75
+Solution: diavolo
+['sistemare', 'tirata', 'ispezionare', 'scappa', 'preparano', 'tirato', 'rimediare', 'prepara', 'invecchiare', 'preparata']
+
+Id: 76
+Solution: gravità
+['gravità', 'abbassa', 'creato', 'manipola', 'intelligenza', 'creava', 'partendo', 'ambientale', 'tolleranza', 'pittoresca']
+
+Id: 77
+Solution: polo
+['preferisco', 'polo', 'pubblicizzato', 'definito', 'seguiva', 'valuta', 'avvio', 'crociata', 'carta', 'contributo']
+
+Id: 78
+Solution: fisico
+['ancora', 'intravisto', 'restava', 'fisico', 'risveglia', 'immobilizzato', 'verificò', 'avvertito', 'erosione', 'partendo']
+
+Id: 79
+Solution: corpo
+['rianimato', 'saprebbe', 'anima', 'saprà', 'sollievo', 'giusto', 'anticipazione', 'promette', 'dovere', 'sapendo']
+
+Id: 80
+Solution: spento
+['spegne', 'acceso', 'stampato', 'spento', 'stilizzato', 'caldo', 'abbinato', 'rispondeva', 'inclinato', 'giallo']
+
+Id: 81
+Solution: parcheggio
+['parcheggio', 'navetta', 'detta', 'margine', 'cassa', 'ingresso', 'sonda', 'inserimento', 'treno', 'simile']
+
+Id: 82
+Solution: segreto
+['acqua', 'attraversando', 'segreto', 'attraversano', 'egiziano', 'prepara', 'regala', 'preparava', 'attraversare', 'genera']
+
+Id: 83
+Solution: sconto
+['spunto', 'basta', 'sperare', 'pagato', 'fondo', 'dettaglio', 'rimarrà', 'onesto', 'indica', 'giudicato']
+
+Id: 84
+Solution: lire
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 85
+Solution: domani
+['sabato', 'pomeriggio', 'appuntamento', 'emesso', 'blog', 'trova', 'sera', 'trasmesso', 'vince', 'giorno']
+
+Id: 86
+Solution: colazione
+['colazione', 'pranzo', 'ripensa', 'andare', 'cena', 'dormire', 'ragazzo', 'sa', 'cameriera', 'mangiare']
+
+Id: 87
+Solution: carattere
+['trasformava', 'virile', 'volto', 'purezza', 'scimpanzé', 'estraneo', 'ritrovato', 'biondo', 'sembri', 'riconoscenza']
+
+Id: 88
+Solution: parenti
+['orsi', 'anfibi', 'parenti', 'gatti', 'tenuti', 'alieni', 'fantasmi', 'marini', 'capelli', 'venuti']
+
+Id: 89
+Solution: nave
+['nave', 'automobile', 'forniva', 'lasciata', 'trovava', 'auto', 'isolata', 'sistemato', 'effettuò', 'cacciatorpediniere']
+
+Id: 90
+Solution: obbligo
+['obbligo', 'immutabile', 'consentirebbe', 'valore', 'codificata', 'imposto', 'supremazia', 'imponeva', 'preteso', 'promesso']
+
+Id: 91
+Solution: pazza
+['pazza', 'riempie', 'trattenere', 'scatenando', 'immensa', 'finiva', 'regalando', 'esplosa', 'impeto', 'balla']
+
+Id: 92
+Solution: squadra
+['trasformandola', 'circondava', 'omologato', 'disputarono', 'irrompe', 'dojo', 'crollò', 'palla', 'esplode', 'circondata']
+
+Id: 93
+Solution: cittadino
+['cittadino', 'motivazionale', 'cliente', 'detective', 'operatore', 'puntuale', 'sostituto', 'multidisciplinare', 'oggetto', 'permetterebbe']
+
+Id: 94
+Solution: servo
+['rimane', 'resta', 'diretto', 'braccio', 'figlio', 'padre', 'diventa', 'divenne', 'millecarra', 'defionendosi']
+
+Id: 95
+Solution: ritorno
+['andavo', 'stravolge', 'cristo', 'fugace', 'ricreata', 'corrompe', 'bizzarra', 'grottesca', 'graziosa', 'bullismo']
+
+Id: 96
+Solution: giovane
+['passare', 'incontra', 'commissario', 'solita', 'apre', 'giorno', 'ritorna', 'scopre', 'pazzo', 'tornò']
+
+Id: 97
+Solution: brindisi
+['andarono', 'cittadino', 'minacciare', 'regia', 'avvicinò', 'dirige', 'annunciando', 'ritardo', 'diretto', 'cambiata']
+
+Id: 98
+Solution: pala
+['costruito', 'cosiddetta', 'presenta', 'signore', 'riceve', 'bella', 'recuperare', 'semplice', 'significa', 'trova']
+
+Id: 99
+Solution: pastore
+['contadino', 'detto', 'visto', 'menzionato', 'raffigurante', 'esempio', 'svolge', 'mantiene', 'crea', 'considerato']
+
+Id: 100
+Solution: sogno
+['bello', 'sogno', 'vivendo', 'scossone', 'tormentata', 'vivere', 'faticano', 'rovinata', 'strega', 'augura']
+
+Id: 101
+Solution: risultato
+['significherebbe', 'mero', 'eventuale', 'migliore', 'letterario', 'intelligente', 'merita', 'prestigioso', 'messo', 'risveglio']
+
+Id: 102
+Solution: treno
+['interessava', 'allontana', 'scappa', 'lasci', 'credendolo', 'divertita', 'partirà', 'lasciata', 'ferma', 'sirena']
+
+Id: 103
+Solution: popolo
+['popolo', 'eroico', 'veglia', 'silenzio', 'urla', 'guerriero', 'piena', 'grida', 'difendeva', 'difende']
+
+Id: 104
+Solution: vela
+['vela', 'snowboard', 'sostituiva', 'vele', 'bacia', 'vecchia', 'attribuita', 'ospitava', 'fungeva', 'suggerì']
+
+Id: 105
+Solution: giusto
+['giusto', 'vantaggioso', 'denaro', 'pò', 'centesimi', 'libero', 'doloroso', 'indifferenti', 'perdere', 'lungo']
+
+Id: 106
+Solution: pacco
+['pacco', 'velo', 'chiavi', 'consigliato', 'uova', 'attacca', 'attimo', 'carta', 'grossa', 'piacere']
+
+Id: 107
+Solution: magia
+['magia', 'propaganda', 'maghi', 'burocrati', 'bestia', 'omaggi', 'costava', 'fax', 'scantinato', 'approfitta']
+
+Id: 108
+Solution: doccia
+['doccia', 'ritorna', 'utilizza', 'fa', 'offre', 'presentazione', 'consisteva', 'tradizionale', 'suono', 'troviamo']
+
+Id: 109
+Solution: camera
+['camera', 'diminuì', 'messa', 'trasformò', 'effettuato', 'ricevevano', 'messo', 'spostare', 'atte', 'mano']
+
+Id: 110
+Solution: benvenuti
+['benvenuti', 'volando', 'fuggito', 'visitando', 'salivano', 'torno', 'troverebbe', 'angolo', 'tornati', 'salgono']
+
+Id: 111
+Solution: tramonto
+['tramonto', 'stanca', 'fiaccola', 'finisca', 'direi', 'rischiando', 'autentica', 'fermi', 'bambina', 'donando']
+
+Id: 112
+Solution: chiacchiere
+['fate', 'faranno', 'sento', 'mangiare', 'significa', 'rifiuti', 'arrivano', 'dicono', 'cose', 'basta']
+
+Id: 113
+Solution: volo
+['tocco', 'volo', 'filo', 'pura', 'intervento', 'interpretato', 'contatto', 'creatività', 'sonno', 'razionalità']
+
+Id: 114
+Solution: procura
+['procura', 'procuratore', 'dissolse', 'instaurata', 'accorto', 'declinò', 'rovesciò', 'disfacimento', 'pianificato', 'costrinsero']
+
+Id: 115
+Solution: pronto
+['pronto', 'autorizzato', 'mancato', 'ottimale', 'diabolico', 'onnipresente', 'tipico', 'rapido', 'limitato', 'solidale']
+
+Id: 116
+Solution: termini
+['esclusa', 'troncare', 'vicina', 'pressi', 'bici', 'distante', 'temuta', 'carabinieri', 'raggiungibile', 'posta']
+
+Id: 117
+Solution: passeggero
+['passeggero', 'violento', 'fossa', 'sinistro', 'trasporta', 'nave', 'destro', 'sposta', 'lobi', 'umano']
+
+Id: 118
+Solution: medio
+['medio', 'utilizzi', 'estremo', 'indicò', 'sconosciuto', 'indica', 'qualunque', 'indice', 'moderno', 'documentato']
+
+Id: 119
+Solution: ritardo
+['pretesto', 'anticipo', 'ritardo', 'squilibrio', 'telefono', 'congelamento', 'giornale', 'abbinamento', 'pacchetti', 'pensato']
+
+Id: 120
+Solution: frase
+['placebo', 'riduca', 'pillola', 'decorrere', 'riattivata', 'cominciata', 'rimandata', 'interrata', 'protratto', 'declassato']
+
+Id: 121
+Solution: circo
+['circo', 'inferno', 'interpretato', 'sfondo', 'giganti', 'anello', 'brillante', 'uomo', 'affrontano', 'utilizzo']
+
+Id: 122
+Solution: spiaggia
+['prepara', 'palestra', 'tradizionale', 'skateboard', 'diffusi', 'caratteristico', 'tipici', 'idoneo', 'dettaglio', 'sportivo']
+
+Id: 123
+Solution: meccanico
+['meccanico', 'rotto', 'riparare', 'ruppe', 'inietta', 'idraulico', 'immobilizzato', 'compie', 'indossava', 'addormenta']
+
+Id: 124
+Solution: ostacoli
+['regolamentare', 'conduca', 'lottava', 'ragiona', 'tenebroso', 'aspirazioni', 'spirituale', 'accelerato', 'reale', 'gioioso']
+
+Id: 125
+Solution: storie
+['scrivo', 'disegnare', 'finendo', 'guardano', 'sa', 'faceva', 'consiste', 'comincia', 'felice', 'editori']
+
+Id: 127
+Solution: mezzo
+['sogna', 'finirà', 'afferrato', 'imperfetta', 'mezzo', 'stà', 'immaginando', 'affermava', 'approda', 'tentava']
+
+Id: 128
+Solution: cammino
+['viaggio', 'pianificato', 'sospesa', 'penultimo', 'mantello', 'camminare', 'recuperata', 'parlò', 'inverno', 'percorso']
+
+Id: 129
+Solution: aperta
+['rumorosa', 'aperta', 'apocalittica', 'snobbare', 'stupenda', 'inondare', 'sposta', 'proiettò', 'spaventosa', 'famosa']
+
+Id: 130
+Solution: condominio
+['condominio', 'albergo', 'sancito', 'limitare', 'ristorante', 'riserva', 'attento', 'concesse', 'paga', 'fissato']
+
+Id: 131
+Solution: gatto
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 132
+Solution: pressione
+['pressione', 'sostituendo', 'vuota', 'perdita', 'ispira', 'producendo', 'caldo', 'eccesso', 'colpì', 'sceso']
+
+Id: 133
+Solution: prestito
+['appalto', 'ambiva', 'quinquennale', 'prestito', 'pretende', 'godimento', 'prevedevano', 'credito', 'obbligazioni', 'oltretutto']
+
+Id: 134
+Solution: terreno
+['terreno', 'iniziamo', 'incomincia', 'finì', 'farà', 'andiamo', 'andando', 'cominciato', 'fa', 'finito']
+
+Id: 135
+Solution: esemplare
+['partecipe', 'scapolo', 'incarcerazione', 'esemplare', 'morte', 'defunto', 'risparmiato', 'meritava', 'salva', 'ricordo']
+
+Id: 136
+Solution: banco
+['ristrutturate', 'finito', 'comprato', 'esemplare', 'richiesto', 'ordinati', 'imponeva', 'autorizzato', 'risposto', 'ordinato']
+
+Id: 137
+Solution: archivio
+['scoprisse', 'dirigeva', 'mantenga', 'finanzia', 'articolo', 'stampato', 'finanziato', 'governativo', 'svelare', 'nascondeva']
+
+Id: 138
+Solution: carrello
+['paga', 'prezzi', 'spostare', 'offerta', 'facendo', 'peso', 'consentire', 'lancia', 'impiegata', 'pronta']
+
+Id: 139
+Solution: giovani
+['spinti', 'giovani', 'visti', 'ammette', 'esistente', 'raro', 'rinomato', 'visibili', 'parlava', 'vive']
+
+Id: 140
+Solution: persona
+['aggirerebbe', 'impoverire', 'impossessato', 'depurare', 'riavere', 'bollette', 'competitivo', 'unitario', 'mutuo', 'polizze']
+
+Id: 141
+Solution: giuria
+['giurati', 'giuria', 'assegna', 'attribuiva', 'impegnando', 'concedeva', 'ricevuta', 'diventata', 'attribuisce', 'candidato']
+
+Id: 142
+Solution: guai
+['guai', 'sporcizia', 'distrazione', 'autorevole', 'legittimazione', 'indispensabile', 'confusione', 'bel', 'soddisfazione', 'spettatori']
+
+Id: 143
+Solution: salita
+['salita', 'conduce', 'dislivello', 'rampa', 'handicap', 'salgono', 'conducono', 'indebolito', 'intrappolata', 'traversata']
+
+Id: 144
+Solution: ore
+['ore', 'accompagnare', 'accompagnano', 'escono', 'accompagna', 'adibite', 'accompagnati', 'lusso', 'consuma', 'scuole']
+
+Id: 145
+Solution: fuoco
+['fuoco', 'insistendo', 'sentì', 'sbaglia', 'senti', 'confidando', 'direi', 'iscritto', 'dispiace', 'sente']
+
+Id: 146
+Solution: società
+['costituendo', 'conscio', 'ignaro', 'neutralizzato', 'aiutate', 'propagato', 'cenno', 'avvisa', 'appresta', 'sciolse']
+
+Id: 147
+Solution: metodo
+['perugina', 'concernente', 'riguardava', 'riguardante', 'stipendi', 'inerente', 'impegna', 'soprannominata', 'killer', 'strumento']
+
+Id: 148
+Solution: moglie
+['fidanzata', 'vado', 'andrà', 'udienza', 'incontrata', 'concede', 'venuta', 'moglie', 'figlia', 'andò']
+
+Id: 149
+Solution: ballo
+['ballo', 'ballato', 'balli', 'esibiscono', 'servito', 'separa', 'mangia', 'dotato', 'aggiunge', 'leggendaria']
+
+Id: 150
+Solution: martello
+['alzato', 'martello', 'sol', 'spara', 'stacca', 'caratteristico', 'dotato', 'sentito', 'coniglio', 'sente']
+
+Id: 151
+Solution: battito
+['battito', 'curioso', 'adatta', 'meraviglioso', 'sveglia', 'mostrano', 'secondi', 'bisogno', 'adatto', 'obbligato']
+
+Id: 152
+Solution: corno
+['corno', 'ammira', 'dispersa', 'mandò', 'sbarco', 'villaggio', 'lavorava', 'spedizione', 'costruendo', 'fabbrica']
+
+Id: 153
+Solution: terza
+['diversa', 'ritratta', 'stessa', 'stimata', 'uguale', 'compresa', 'indicata', 'matura', 'ritrae', 'compariva']
+
+Id: 154
+Solution: ombrello
+['bianco', 'aggiunto', 'esistono', 'uso', 'presente', 'tipi', 'particolare', 'piano', 'caso', 'posto']
+
+Id: 155
+Solution: occhi
+['aria', 'alzando', 'mandare', 'colpire', 'vada', 'rischia', 'costretta', 'avvolto', 'spinge', 'tirare']
+
+Id: 156
+Solution: ragazzo
+['cinema', 'posto', 'crognolo', 'americanizzando', 'espasperanti', 'alievo', 'divantato', 'dilungherei', 'carpivo', 'concludessero']
+
+Id: 157
+Solution: paura
+['male', 'inferno', 'sapeva', 'buono', 'vizio', 'povero', 'nato', 'scambiato', 'culo', 'sogno']
+
+Id: 158
+Solution: finta
+['finta', 'vero', 'resterà', 'sta', 'portano', 'tubo', 'vittima', 'curve', 'riprende', 'decide']
+
+Id: 159
+Solution: nazionale
+['nazionale', 'riusci', 'accresciuto', 'grande', 'incoraggiò', 'grandissima', 'locale', 'gastronomia', 'riveste', 'rinomata']
+
+Id: 160
+Solution: tradimento
+['tradimento', 'giovanotto', 'prezzo', 'fingendo', 'saprà', 'troverà', 'contento', 'sapesse', 'informatore', 'morbido']
+
+Id: 161
+Solution: forbici
+['impiantati', 'provvisto', 'distruggono', 'conosciuti', 'visti', 'possiedono', 'comprendente', 'esempi', 'alberi', 'piccoli']
+
+Id: 162
+Solution: roccia
+['roccia', 'legno', 'cuoio', 'rivestimento', 'strato', 'maschera', 'finto', 'cemento', 'fondo', 'cilindro']
+
+Id: 163
+Solution: seno
+['ramo', 'lignaggio', 'seno', 'legame', 'patto', 'piace', 'finiscono', 'protettivo', 'spinse', 'matrimonio']
+
+Id: 164
+Solution: debito
+['posticipato', 'tempistiche', 'impunità', 'esige', 'correttezza', 'irresistibile', 'ritardata', 'privacy', 'valutata', 'ripristino']
+
+Id: 165
+Solution: film
+['tinte', 'nastro', 'vedrà', 'tendente', 'metterà', 'giallo', 'brillanti', 'blu', 'pali', 'riflette']
+
+Id: 166
+Solution: analisi
+['comprensivo', 'salvi', 'aggregato', 'estraneo', 'prestigioso', 'ricerca', 'verificabile', 'studi', 'fissò', 'inesistente']
+
+Id: 168
+Solution: viso
+['viso', 'volto', 'eufemismo', 'mattone', 'occhi', 'rituale', 'usata', 'utilizzata', 'capelli', 'giallo']
+
+Id: 169
+Solution: libertà
+['deciderà', 'prescrive', 'respinta', 'rinviata', 'ratificata', 'decisa', 'respinge', 'giurato', 'andiamo', 'convenuto']
+
+Id: 170
+Solution: tema
+['pensavo', 'piace', 'martedì', 'apposito', 'rimandato', 'sperimenta', 'giovedì', 'umore', 'guscio', 'previsto']
+
+Id: 171
+Solution: caso
+['ora', 'spingono', 'coincidenza', 'impone', 'ammette', 'convinto', 'infinito', 'traduce', 'spinge', 'discrezione']
+
+Id: 172
+Solution: pubblico
+['pubblico', 'immediato', 'ebbero', 'evitato', 'mettiamo', 'mettevano', 'metteva', 'venga', 'metterà', 'avvertì']
+
+Id: 173
+Solution: fisica
+['fisica', 'persuasiva', 'psichica', 'unica', 'contraria', 'altra', 'interpretativa', 'qualsiasi', 'sismica', 'dimostri']
+
+Id: 174
+Solution: penna
+['penna', 'sovrapposta', 'percorre', 'croce', 'cristallina', 'dorata', 'sorreggere', 'striscia', 'incastonata', 'sabbia']
+
+Id: 175
+Solution: immagine
+['divino', 'funzione', 'rimanda', 'allude', 'equivalente', 'contempla', 'equivale', 'primario', 'usò', 'riflette']
+
+Id: 176
+Solution: sapone
+['sapone', 'ardesia', 'granuli', 'cosparsa', 'limone', 'detersivi', 'mistura', 'cannella', 'mangiato', 'cibo']
+
+Id: 177
+Solution: commedia
+['commedia', 'gettò', 'nasconde', 'allieva', 'presunzione', 'stava', 'invenzione', 'illuminata', 'cantata', 'nata']
+
+Id: 178
+Solution: pinza
+['fili', 'olio', 'nodo', 'dotata', 'meccanico', 'caduta', 'misto', 'rappresentata', 'tiene', 'testa']
+
+Id: 179
+Solution: chiesa
+['avvisata', 'prega', 'confida', 'sopporta', 'figlia', 'consultò', 'assenso', 'telefona', 'adottiva', 'raccomanda']
+
+Id: 180
+Solution: sentimento
+['attaccamento', 'riverenza', 'sentimento', 'disappunto', 'emozione', 'sentì', 'gloria', 'predisposizione', 'tornata', 'ritornò']
+
+Id: 181
+Solution: opposizione
+['ribelle', 'sottosuolo', 'resistenze', 'riuniscono', 'portavoce', 'resistenza', 'mercanti', 'pericoloso', 'rockstar', 'dialogare']
+
+Id: 182
+Solution: odio
+['segnano', 'odio', 'cuore', 'risveglia', 'professava', 'nano', 'disprezzo', 'esprimeva', 'affetto', 'apprezzamento']
+
+Id: 183
+Solution: mago
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 184
+Solution: strada
+['spostandolo', 'torna', 'tornato', 'entrando', 'tornando', 'tornò', 'pulizie', 'camerini', 'tornata', 'ritornando']
+
+Id: 185
+Solution: quadro
+['compie', 'muove', 'trattò', 'previsto', 'confessa', 'regola', 'offrono', 'eseguito', 'sostanziale', 'intende']
+
+Id: 186
+Solution: west
+['avversario', 'pallone', 'servito', 'trasforma', 'diresse', 'posto', 'correre', 'andavano', 'trascorso', 'agosto']
+
+Id: 187
+Solution: area
+['modulo', 'perimetro', 'miglio', 'terreno', 'equivalente', 'regola', 'simbolico', 'mercati', 'utilizza', 'somma']
+
+Id: 188
+Solution: centro
+['realizzasse', 'avverrà', 'costano', 'rientrare', 'censurato', 'l', 'condividendo', 'capisco', 'avviene', 'incanto']
+
+Id: 189
+Solution: odore
+['materasso', 'odore', 'derubato', 'brucia', 'buttato', 'tizio', 'finendo', 'indiana', 'consumato', 'pub']
+
+Id: 190
+Solution: carro
+['carro', 'magazzino', 'deposito', 'conservano', 'carri', 'turbina', 'aperto', 'rumore', 'usando', 'dotate']
+
+Id: 191
+Solution: natale
+['serate', 'nostalgia', 'vittoriana', 'affrontato', 'saggistica', 'metamorfosi', 'sordina', 'ritorna', 'serata', 'romantica']
+
+Id: 192
+Solution: terra
+['terra', 'simboleggia', 'radura', 'alba', 'emozionale', 'faccia', 'svastica', 'liberarono', 'nana', 'davanti']
+
+Id: 193
+Solution: serie
+['creò', 'stampante', 'palestra', 'testando', 'creando', 'sostituita', 'realizzarono', 'rimpiazzata', 'automobile', 'trave']
+
+Id: 194
+Solution: cabina
+['inutilizzabile', 'cabina', 'banchi', 'completare', 'scoprì', 'enorme', 'aggiuntiva', 'trattasse', 'aeromobile', 'nasconde']
+
+Id: 195
+Solution: tanto
+['invogliare', 'tenterà', 'minigiochi', 'saputo', 'signor', 'desidera', 'costringe', 'pneumatici', 'sembra', 'avvicinato']
+
+Id: 196
+Solution: mano
+['stende', 'subisce', 'cintura', 'dette', 'lancia', 'effettuato', 'eseguito', 'muove', 'subì', 'regola']
+
+Id: 197
+Solution: conferma
+['pulsante', 'ordinando', 'possibile', 'chiave', 'vai', 'tasti', 'link', 'corrisponde', 'incaricato', 'momento']
+
+Id: 198
+Solution: picco
+['picco', 'calando', 'cala', 'desolate', 'pieno', 'schiantare', 'calato', 'aggirava', 'calare', 'piace']
+
+Id: 199
+Solution: gelo
+['gigantesca', 'rossa', 'lancia', 'rosso', 'iniziarono', 'popolarità', 'utile', 'serve', 'chiamata', 'sta']
+
+Id: 200
+Solution: scorta
+['trasporto', 'scarsezza', 'scorta', 'navetta', 'fornisce', 'gru', 'trasporta', 'divertimento', 'integrato', 'tolto']
+
+Id: 201
+Solution: piega
+['occhiali', 'viso', 'indietro', 'pallina', 'braccia', 'portava', 'pò', 'muso', 'morendo', 'faccia']
+
+Id: 202
+Solution: mare
+['dannato', 'teneva', 'recava', 'san', 'tagliato', 'rotonda', 'ferisce', 'ricompare', 'porge', 'svanisce']
+
+Id: 203
+Solution: libertà
+['impediva', 'sbagliato', 'proibito', 'negata', 'evita', 'valeva', 'sembravano', 'ritrarre', 'iniziano', 'vietato']
+
+Id: 204
+Solution: regione
+['promulgò', 'governatorato', 'governo', 'tribunale', 'comitato', 'intimava', 'stabiliva', 'penetrava', 'banca', 'istituita']
+
+Id: 205
+Solution: divisione
+['divisione', 'compartimento', 'tuttofare', 'infermiera', 'colloquio', 'presiede', 'personale', 'organizzazione', 'segreteria', 'istruttore']
+
+Id: 206
+Solution: nudo
+['nudo', 'ritrae', 'piaceva', 'stupenda', 'diventava', 'mangia', 'ritornato', 'guardò', 'piaciuta', 'infernale']
+
+Id: 207
+Solution: cerchio
+['cerchio', 'percepiscono', 'peggiore', 'cerchi', 'vide', 'vedrà', 'videro', 'riportare', 'salta', 'portandoli']
+
+Id: 208
+Solution: quartiere
+['partito', 'quartiere', 'sento', 'adottò', 'italiano', 'scapito', 'personale', 'popolo', 'contrapposizione', 'lotte']
+
+Id: 209
+Solution: inglese
+['inglese', 'utilizza', 'usa', 'utilizzi', 'utilizzava', 'usando', 'bocca', 'inventore', 'parlava', 'significa']
+
+Id: 210
+Solution: materia
+['materia', 'guardiano', 'faccio', 'uomo', 'nn', 'mostrando', 'gente', 'dio', 'ragazzina', 'custode']
+
+Id: 211
+Solution: passione
+['passione', 'cocco', 'attiva', 'proibito', 'frutti', 'generosa', 'sogno', 'insegnando', 'praticare', 'appassionata']
+
+Id: 212
+Solution: piccola
+['apre', 'rappresentata', 'dedicata', 'celebre', 'altra', 'antica', 'tipico', 'centrale', 'va', 'diventa']
+
+Id: 213
+Solution: vuoto
+['vuoto', 'volare', 'impotente', 'ricadere', 'dessero', 'dimentica', 'darò', 'buio', 'tutto', 'sentivo']
+
+Id: 214
+Solution: donna
+['fissa', 'incontriamo', 'gara', 'usciva', 'specialità', 'concede', 'giocato', 'soccorso', 'giornalista', 'avanza']
+
+Id: 215
+Solution: assistente
+['assistente', 'ricercatore', 'ordina', 'alza', 'ascolta', 'famiglia', 'parlare', 'gruppo', 'telefono', 'direttore']
+
+Id: 216
+Solution: modo
+['apparendo', 'modo', 'colpito', 'considera', 'permettere', 'puntata', 'mostrava', 'contributo', 'racconto', 'volta']
+
+Id: 217
+Solution: numeri
+['nuovo', 'concetti', 'pseudo', 'bello', 'controverso', 'riassume', 'sottolinea', 'fondamentale', 'leggere', 'ke']
+
+Id: 218
+Solution: affitto
+['calato', 'avvistato', 'vieta', 'recano', 'affiliati', 'aiuterà', 'avvisa', 'abito', 'manda', 'vestiti']
+
+Id: 219
+Solution: museo
+['sorride', 'vagone', 'museo', 'spogliatoi', 'garage', 'faro', 'nascosto', 'piombo', 'arrivato', 'buca']
+
+Id: 220
+Solution: viola
+['cade', 'farà', 'va', 'faceva', 'popolo', 'mellifuo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea']
+
+Id: 221
+Solution: duro
+['duro', 'trattengono', 'ammazza', 'recando', 'smette', 'freddo', 'stremato', 'diventerebbe', 'buon', 'attua']
+
+Id: 222
+Solution: distintivo
+['distintivo', 'confermando', 'accenna', 'riflessioni', 'obiezioni', 'raccoglitore', 'pettegolezzi', 'limita', 'cifre', 'privato']
+
+Id: 223
+Solution: inizio
+['treno', 'arrivato', 'fai', 'finalissima', 'microfono', 'impulso', 'sassofono', 'farà', 'proiettile', 'lustro']
+
+Id: 224
+Solution: confine
+['confine', 'frontiera', 'attitudine', 'riserva', 'incapacità', 'riuscire', 'confini', 'messicano', 'ritornando', 'dimora']
+
+Id: 225
+Solution: ritocco
+['ritoccato', 'sfoggia', 'rifare', 'praticava', 'spia', 'accorge', 'rubato', 'modificare', 'trovate', 'parlando']
+
+Id: 226
+Solution: canto
+['canto', 'sci', 'giardino', 'carnevale', 'paradiso', 'quartiere', 'uccello', 'cacciatore', 'rifugio', 'respiro']
+
+Id: 227
+Solution: getto
+['getto', 'risparmia', 'usava', 'consentiva', 'serve', 'solido', 'permette', 'flusso', 'utilizzando', 'usando']
+
+Id: 228
+Solution: spalle
+['continuate', 'ristoro', 'fitto', 'servono', 'sembrerebbe', 'conducono', 'petto', 'finisce', 'segreto', 'stabilità']
+
+Id: 229
+Solution: padre
+['sosia', 'recano', 'benefattore', 'sposò', 'amato', 'portava', 'vero', 'notaio', 'savonese', 'portavano']
+
+Id: 230
+Solution: fresco
+['fresco', 'occuperà', 'immersi', 'brevettò', 'concludeva', 'smentite', 'completato', 'preparatoria', 'notiziari', 'internazionale']
+
+Id: 231
+Solution: panchina
+['staffetta', 'marcia', 'rotta', 'palla', 'chiedendo', 'promessa', 'inaugura', 'promesso', 'vacanza', 'tregua']
+
+Id: 232
+Solution: consumo
+['anticipo', 'annuale', 'prenotazione', 'consumo', 'applica', 'odierno', 'previsto', 'prevedeva', 'partendo', 'previste']
+
+Id: 233
+Solution: preghiera
+['disteso', 'preghiera', 'riempito', 'noia', 'proiettato', 'usciva', 'esibì', 'bello', 'mattino', 'appeso']
+
+Id: 234
+Solution: osservazione
+['osservazione', 'distanziate', 'lontane', 'lontani', 'eroso', 'ravvicinato', 'alto', 'lume', 'certo', 'distanti']
+
+Id: 235
+Solution: scarpetta
+['venire', 'cerca', 'scompare', 'va', 'copia', 'entra', 'raffigura', 'dea', 'vero', 'vaso']
+
+Id: 236
+Solution: cuffia
+['accorge', 'insaputa', 'comunicava', 'polso', 'giocattolo', 'spina', 'fidanzata', 'braccio', 'funzionante', 'bastone']
+
+Id: 237
+Solution: tosse
+['tosse', 'coniglio', 'sacco', 'fare', 'forza', 'perde', 'risposta', 'avviene', 'azione', 'perso']
+
+Id: 238
+Solution: danno
+['danno', 'subita', 'vizio', 'effetto', 'danni', 'sapore', 'destinato', 'disagio', 'mentalità', 'esigenza']
+
+Id: 239
+Solution: assistenza
+['autorizzato', 'allertato', 'dispendioso', 'strumentale', 'sostentamento', 'propagandistico', 'abilitato', 'effettuò', 'assistenza', 'idonei']
+
+Id: 240
+Solution: storta
+['storta', 'morso', 'gatto', 'osso', 'ripete', 'serpente', 'approfitta', 'esca', 'escono', 'nuca']
+
+Id: 241
+Solution: marea
+['marea', 'lava', 'radioattività', 'magia', 'scorge', 'cascata', 'luna', 'accorge', 'guarda', 'fotografata']
+
+Id: 242
+Solution: progresso
+['avanzamento', 'portati', 'fra', 'progresso', 'risalga', 'presuppone', 'giunti', 'iniziati', 'affermava', 'numismatica']
+
+Id: 243
+Solution: comune
+['fiore', 'dichiarando', 'prevenire', 'visto', 'vedeva', 'buio', 'tempo', 'veniva', 'vero', 'sa']
+
+Id: 244
+Solution: costume
+['addice', 'costume', 'mascherata', 'pensata', 'fotografato', 'organizzata', 'vestita', 'truccata', 'curata', 'descrisse']
+
+Id: 245
+Solution: pianoforte
+['alza', 'alzare', 'buco', 'alzato', 'appoggiata', 'appesa', 'tocca', 'scivola', 'gira', 'ritornerà']
+
+Id: 246
+Solution: opera
+['aspettando', 'celebra', 'catturata', 'paglia', 'beata', 'pregava', 'celebrata', 'umiltà', 'piangere', 'assistendo']
+
+Id: 247
+Solution: adozione
+['applicava', 'proibita', 'adozione', 'porci', 'adozioni', 'equiparata', 'varrà', 'canile', 'condannava', 'affido']
+
+Id: 249
+Solution: libreria
+['vetrina', 'aperto', 'toccata', 'collocata', 'apre', 'edilizia', 'consisteva', 'racchiuse', 'salta', 'aprono']
+
+Id: 250
+Solution: ventaglio
+['ventaglio', 'preparano', 'nastro', 'abiti', 'fatte', 'spade', 'regali', 'spostare', 'tavolo', 'ordina']
+
+Id: 251
+Solution: artista
+['creatività', 'individuale', 'idiota', 'perlomeno', 'diventerebbe', 'egoista', 'tardivo', 'saggezza', 'scantinato', 'esemplare']
+
+Id: 252
+Solution: codice
+['concesso', 'd', 'chiamato', 'vestito', 'buono', 'telefono', 'giornalista', 'orgoglio', 'palio', 'intitolato']
+
+Id: 253
+Solution: oggi
+['inesplorato', 'debutta', 'regalano', 'trascurato', 'fittizio', 'calato', 'riflettere', 'funziona', 'avvertito', 'girato']
+
+Id: 254
+Solution: passaggio
+['riemerge', 'passaggio', 'comanda', 'riparo', 'spera', 'colpo', 'lavorerà', 'impulso', 'alieno', 'chiamato']
+
+Id: 255
+Solution: risposta
+['risposta', 'dice', 'dicendo', 'dichiara', 'annuncia', 'ascoltare', 'scusa', 'informa', 'chiarisce', 'divulgare']
+
+Id: 256
+Solution: calcio
+['alternarono', 'scontato', 'comandi', 'serviva', 'tornate', 'prevedevano', 'poco', 'provato', 'durezza', 'maiale']
+
+Id: 257
+Solution: partita
+['furgone', 'attesa', 'deludente', 'trasforma', 'partita', 'accompagna', 'dichiarando', 'veloce', 'nascosta', 'automobile']
+
+Id: 258
+Solution: incontro
+['scelse', 'prescelto', 'natio', 'adatto', 'trovandovi', 'pellegrinaggio', 'predica', 'scelto', 'insisteva', 'ritornando']
+
+Id: 259
+Solution: precisione
+['balistica', 'ausilio', 'matematici', 'algebrici', 'precisione', 'indispensabili', 'astronomia', 'avvale', 'avanzati', 'semplificare']
+
+Id: 260
+Solution: stato
+['ritenga', 'cattivo', 'dio', 'prospetta', 'onnipotente', 'canguro', 'arso', 'trova', 'stato', 'procurando']
+
+Id: 261
+Solution: asta
+['bando', 'apposto', 'evidenza', 'salutare', 'ricompensa', 'quarantena', 'destinatario', 'segnalazione', 'accusa', 'sicurezza']
+
+Id: 262
+Solution: rotta
+['rotta', 'peschereccio', 'fiat', 'trattò', 'concorrenza', 'banca', 'navigatore', 'scorta', 'accordo', 'entrò']
+
+Id: 263
+Solution: nuvole
+['nuvole', 'metterebbe', 'tovagliolo', 'sabbia', 'deposita', 'precipita', 'scivola', 'trattenuta', 'rimette', 'pesce']
+
+Id: 264
+Solution: luna
+['guardi', 'scimmia', 'alza', 'luna', 'posando', 'alzato', 'alzò', 'fragile', 'diceva', 'sogna']
+
+Id: 265
+Solution: concerto
+['concerto', 'festa', 'celebra', 'discorso', 'regala', 'sapendo', 'dicendo', 'esibizione', 'celebrare', 'intitolato']
+
+Id: 266
+Solution: piacere
+['piacere', 'carrozza', 'gradevole', 'discute', 'barca', 'piacevole', 'antichissimo', 'escluso', 'fondamentale', 'basa']
+
+Id: 267
+Solution: gigante
+['gigante', 'dimostra', 'regala', 'signora', 'amica', 'rivela', 'grossa', 'terra', 'disegnato', 'sostituita']
+
+Id: 268
+Solution: manica
+['dozzina', 'faranno', 'uscita', 'cercano', 'minatori', 'mettono', 'uova', 'sfrutta', 'rete', 'portano']
+
+Id: 269
+Solution: vulcano
+['vulcano', 'avvicina', 'partono', 'distrugge', 'pozzo', 'alimentato', 'vicina', 'muove', 'scoprono', 'restò']
+
+Id: 270
+Solution: cuore
+['cuore', 'fondo', 'terribile', 'notte', 'cosmo', 'caos', 'sta', 'vede', 'diventa', 'rallentamento']
+
+Id: 271
+Solution: muscoli
+['caratterizzando', 'pressato', 'integrò', 'scalda', 'intrecciato', 'rinforzato', 'organico', 'duro', 'grezzo', 'svolto']
+
+Id: 272
+Solution: prova
+['polizza', 'prova', 'clausola', 'riscontrato', 'obbligazioni', 'redatto', 'effettuazione', 'fissata', 'specialista', 'esercita']
+
+Id: 273
+Solution: domanda
+['sappia', 'brutta', 'approvare', 'gradisce', 'annuncio', 'ecografia', 'bis', 'impone', 'domanda', 'ispezione']
+
+Id: 274
+Solution: intenzione
+['piu', 'condanna', 'settimana', 'fare', 'compiuto', 'disposizione', 'ex', 'auto', 'vista', 'favore']
+
+Id: 275
+Solution: auto
+['accolto', 'schietto', 'attrezzato', 'trascurata', 'ottocentesca', 'mascherata', 'dislocata', 'strutturati', 'accolta', 'parlò']
+
+Id: 276
+Solution: garanzia
+['apologetica', 'maiuscola', 'chiarimento', 'contenitore', 'inerente', 'eseguito', 'riportava', 'riscontrabile', 'vedi', 'faccio']
+
+Id: 277
+Solution: fante
+['morente', 'libera', 'monta', 'operante', 'parla', 'incontra', 'brutta', 'mezza', 'de', 'chiama']
+
+Id: 278
+Solution: intervista
+['intervista', 'facciamo', 'online', 'internet', 'apposito', 'anime', 'sera', 'volume', 'concepito', 'realizzato']
+
+Id: 279
+Solution: commento
+['redattore', 'sito', 'preferisce', 'commento', 'stagioni', 'pilota', 'legame', 'pubblicata', 'ordine', 'eterno']
+
+Id: 280
+Solution: tribuna
+['destra', 'tribuna', 'intervenuti', 'conferenza', 'israeliana', 'riservò', 'istituendo', 'spetta', 'rassegna', 'onere']
+
+Id: 281
+Solution: significato
+['sapremo', 'disagio', 'somiglianza', 'significato', 'saprà', 'esattezza', 'senso', 'favore', 'grafo', 'richiamo']
+
+Id: 282
+Solution: giorni
+['giorni', 'morti', 'concomitanza', 'cause', 'bambino', 'giorno', 'compaiono', 'dare', 'arrivano', 'legati']
+
+Id: 283
+Solution: tavola
+['seduzione', 'guardia', 'cobra', 'tavola', 'amante', 'vichingo', 'riscoprire', 'invito', 'grifone', 'balletto']
+
+Id: 284
+Solution: situazione
+['situazione', 'trova', 'rendono', 'dia', 'rende', 'osservatore', 'funge', 'faro', 'variabile', 'risulta']
+
+Id: 285
+Solution: sci
+['prato', 'mix', 'posa', 'gatto', 'usati', 'rosso', 'dotato', 'uso', 'sole', 'neve']
+
+Id: 286
+Solution: cronaca
+['cronaca', 'disegna', 'personalizzata', 'acquistando', 'concede', 'consultazione', 'recava', 'viola', 'seguiva', 'intendo']
+
+Id: 287
+Solution: scuro
+['apparve', 'appare', 'vede', 'riflette', 'camicia', 'delimitazione', 'cappuccio', 'pelle', 'scimmia', 'maschera']
+
+Id: 288
+Solution: pronta
+['pronta', 'solita', 'semplice', 'servono', 'ottenuta', 'riso', 'indirizzata', 'reale', 'ottenere', 'manda']
+
+Id: 289
+Solution: cottura
+['cottura', 'penetrato', 'posizionata', 'inclinate', 'formava', 'posizionato', 'piatto', 'fuoriuscita', 'oscillazione', 'sporgente']
+
+Id: 290
+Solution: avvocato
+['avvocato', 'notaio', 'ottenuta', 'affermò', 'perde', 'cliente', 'ricevette', 'dottor', 'assegnazione', 'procuratore']
+
+Id: 291
+Solution: copia
+['copia', 'manuale', 'appunti', 'copie', 'promesso', 'arrivato', 'inizia', 'taglia', 'faccio', 'trasferire']
+
+Id: 292
+Solution: grigio
+['azzurro', 'grigio', 'rosso', 'arrampica', 'tasca', 'nero', 'addormentato', 'giacca', 'blu', 'nasconde']
+
+Id: 293
+Solution: sala
+['sala', 'esercizio', 'uso', 'paragonabili', 'stampa', 'confidenza', 'gira', 'ausilio', 'eseguito', 'introduzione']
+
+Id: 294
+Solution: brillante
+['brillante', 'peggiore', 'odia', 'swift', 'razionale', 'dispiace', 'plasmato', 'sensibile', 'cosciente', 'scorge']
+
+Id: 295
+Solution: volontà
+['volontà', 'preparano', 'resterà', 'notti', 'fede', 'vuoi', 'leadership', 'offre', 'causato', 'alleviare']
+
+Id: 297
+Solution: toppa
+['piega', 'fazzoletto', 'polso', 'naso', 'pistola', 'nascosto', 'cade', 'salta', 'posizionato', 'petto']
+
+Id: 298
+Solution: senza
+['consigliato', 'assicurando', 'chiedeva', 'cacciata', 'viaggia', 'opta', 'ripristinato', 'lottano', 'costrinse', 'adoperò']
+
+Id: 299
+Solution: bilancia
+['prepara', 'inventato', 'ordina', 'facendo', 'preparare', 'ricco', 'tipico', 'costringe', 'serve', 'originario']
+
+Id: 300
+Solution: festa
+['ringrazia', 'piange', 'ringraziare', 'viandante', 'eccelso', 'ricambiato', 'dorme', 'viso', 'custodito', 'festa']
+
+Id: 301
+Solution: campagna
+['assicura', 'ufficiale', 'mandò', 'generico', 'aggiunge', 'allarme', 'desse', 'lavorava', 'avverte', 'eccellenza']
+
+Id: 302
+Solution: tronco
+['tronco', 'appuntito', 'tronchi', 'tagliato', 'metallico', 'dritto', 'grosso', 'avvolto', 'installato', 'sormontato']
+
+Id: 303
+Solution: prigione
+['prigione', 'prigioni', 'carcere', 'messicano', 'detenuto', 'usò', 'sospettato', 'trance', 'affare', 'pensionamento']
+
+Id: 304
+Solution: sole
+['smalti', 'levare', 'ambra', 'affiora', 'cerchio', 'dipinte', 'capelli', 'sormontati', 'finiture', 'cielo']
+
+Id: 305
+Solution: secoli
+['perì', 'veglia', 'secoli', 'tempi', 'recitata', 'decenni', 'dimenticare', 'cieli', 'aperti', 'anni']
+
+Id: 306
+Solution: benvenuto
+['amo', 'commento', 'saluto', 'intenso', 'virtuale', 'ringraziamento', 'piace', 'impazzire', 'messaggio', 'farà']
+
+Id: 307
+Solution: piatto
+['compariva', 'campionamento', 'aggiunge', 'formò', 'introduzione', 'proveniva', 'aumentava', 'pezzi', 'consuma', 'registrata']
+
+Id: 308
+Solution: ala
+['grosso', 'atterra', 'spara', 'butta', 'immancabile', 'progettato', 'gigantesco', 'piccolo', 'restituisce', 'solo']
+
+Id: 309
+Solution: meglio
+['sognato', 'rovinata', 'impara', 'passerà', 'esami', 'sogna', 'meglio', 'discusso', 'celebrata', 'seppe']
+
+Id: 310
+Solution: tacco
+['palle', 'colpo', 'vizio', 'arriva', 'decisa', 'piedi', 'abile', 'decide', 'vincere', 'spinta']
+
+Id: 311
+Solution: categoria
+['autovettura', 'marche', 'valuta', 'immerso', 'eliminati', 'confermano', 'complessivo', 'acquisti', 'sorprendente', 'pochissimi']
+
+Id: 313
+Solution: criterio
+['criterio', 'correttezza', 'precisa', 'corretta', 'tardò', 'procedure', 'logica', 'commissariamento', 'priorità', 'stilistica']
+
+Id: 314
+Solution: largo
+['largo', 'protende', 'marcire', 'muraglione', 'corre', 'affaccia', 'piazzetta', 'salone', 'lungomare', 'giro']
+
+Id: 315
+Solution: lista
+['menu', 'ignora', 'immortale', 'ascoltare', 'inseguendo', 'sente', 'accompagnano', 'udito', 'ascolta', 'lista']
+
+Id: 316
+Solution: sesto
+['irrilevante', 'inteso', 'estranea', 'finirà', 'ovvio', 'evoluto', 'contrappone', 'risolse', 'significava', 'dubbio']
+
+Id: 317
+Solution: taglia
+['taglia', 'riduzione', 'limitazione', 'roba', 'enfasi', 'somma', 'sacca', 'crescita', 'multa', 'spinta']
+
+Id: 318
+Solution: lezione
+['notturna', 'ritornata', 'lezione', 'disabili', 'passata', 'tolto', 'poveri', 'tornare', 'stabilita', 'borgata']
+
+Id: 319
+Solution: verde
+['letale', 'temibile', 'superficiale', 'veloce', 'potente', 'mancanza', 'verde', 'risultante', 'reagisce', 'uccidono']
+
+Id: 320
+Solution: lupo
+['lupo', 'matto', 'rumore', 'miracolo', 'lasciandolo', 'lontananza', 'vado', 'spinge', 'accende', 'sente']
+
+Id: 321
+Solution: utile
+['impersonale', 'recupera', 'immortale', 'bello', 'utile', 'papà', 'consideri', 'ripetuta', 'buono', 'aderente']
+
+Id: 322
+Solution: merce
+['merce', 'amichevole', 'regalando', 'contropartita', 'bomber', 'sancito', 'significava', 'liguri', 'golf', 'terminata']
+
+Id: 323
+Solution: microfono
+['microfono', 'ascolta', 'cono', 'credendo', 'circuito', 'ricevitore', 'accensione', 'gratuita', 'ascoltare', 'vota']
+
+Id: 324
+Solution: bacio
+['chiamato', 'esponente', 'fondamento', 'atto', 'erede', 'criterio', 'indicato', 'sistemata', 'serve', 'esemplare']
+
+Id: 325
+Solution: ragazzi
+['dilettano', 'brillato', 'rovinato', 'torniamo', 'proseguo', 'stressante', 'iniziasse', 'ragazzi', 'conosciamo', 'animava']
+
+Id: 326
+Solution: secco
+['secco', 'simboleggia', 'cristallino', 'impresse', 'aspro', 'intenso', 'fiore', 'freddo', 'sonoro', 'caldo']
+
+Id: 327
+Solution: menta
+['ramoscello', 'denso', 'preparato', 'nutre', 'cola', 'provenienza', 'origine', 'importazione', 'farina', 'cotto']
+
+Id: 328
+Solution: cena
+['cena', 'luogo', 'protesta', 'paese', 'comandare', 'truffa', 'accusati', 'organizzando', 'miseria', 'impedendo']
+
+Id: 329
+Solution: frontiera
+['spinge', 'frontiera', 'separò', 'mare', 'muore', 'morto', 'spento', 'confine', 'morta', 'unità']
+
+Id: 330
+Solution: chiusura
+['apertura', 'chiusura', 'negoziazione', 'teneva', 'istituendo', 'riapertura', 'tiene', 'riaperta', 'diamanti', 'consegna']
+
+Id: 331
+Solution: epoca
+['avvaleva', 'officina', 'reportage', 'gossip', 'arrivate', 'propaganda', 'controparte', 'clinica', 'usciva', 'toilette']
+
+Id: 332
+Solution: conquista
+['spostano', 'toccato', 'comperare', 'trovare', 'piace', 'operando', 'comprare', 'insiste', 'inaugurare', 'scelse']
+
+Id: 333
+Solution: corda
+['corda', 'muretto', 'qualsiasi', 'cadendo', 'copertura', 'determinata', 'fai', 'buio', 'discendente', 'qualunque']
+
+Id: 334
+Solution: fumo
+['vespa', 'fumo', 'comporterà', 'trattiene', 'tocca', 'piangere', 'disperazione', 'mutande', 'lasciandolo', 'nascosto']
+
+Id: 335
+Solution: idea
+['desidera', 'vorrebbe', 'prepara', 'idea', 'accetta', 'butta', 'facciamo', 'mandò', 'abbraccia', 'ritrova']
+
+Id: 336
+Solution: fratelli
+['altri', 'crognolo', 'impietosendo', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi']
+
+Id: 337
+Solution: sicurezza
+['vicegovernatore', 'confederale', 'deputata', 'votò', 'deliberarono', 'legislativa', 'lord', 'rappresentanti', 'egual', 'presidenze']
+
+Id: 338
+Solution: agente
+['protezione', 'passasse', 'protetta', 'denominata', 'inviato', 'congiunta', 'agente', 'batte', 'chiama', 'tolta']
+
+Id: 339
+Solution: affetto
+['affetto', 'sincera', 'denota', 'reciproca', 'tenerezza', 'dispiacere', 'sentimento', 'profonda', 'traspare', 'manifestò']
+
+Id: 340
+Solution: rana
+['rana', 'pioggia', 'capace', 'tornato', 'nuvole', 'fiume', 'bambino', 'animale', 'piede', 'paura']
+
+Id: 341
+Solution: pelo
+['solo', 'giunto', 'pelo', 'comparire', 'tavola', 'tratto', 'esemplare', 'modulo', 'rilasciato', 'intero']
+
+Id: 342
+Solution: accusa
+['designa', 'diventata', 'risulterà', 'comandante', 'incitamento', 'segnalano', 'accusa', 'entrata', 'comanda', 'aggiunto']
+
+Id: 343
+Solution: tocco
+['tocco', 'tocchi', 'sesta', 'assegnata', 'sottrae', 'conferito', 'viaggia', 'raccomanda', 'concesso', 'conferisce']
+
+Id: 344
+Solution: presa
+['sollevata', 'sollevato', 'abbassati', 'ferma', 'prebende', 'prendo', 'avambracci', 'dispiegato', 'prendiamo', 'prender']
+
+Id: 345
+Solution: mamma
+['dico', 'bambina', 'sente', 'riprenda', 'sento', 'cara', 'ragazza', 'persona', 'bella', 'bambino']
+
+Id: 346
+Solution: amicizia
+['tregua', 'amicizia', 'alzata', 'solidarietà', 'sigillo', 'continuità', 'alleanza', 'iscrizione', 'recinzione', 'interruzione']
+
+Id: 347
+Solution: natura
+['facesse', 'invoca', 'eterno', 'aspettano', 'farà', 'profezia', 'temuto', 'fece', 'riguardante', 'compie']
+
+Id: 348
+Solution: esperienza
+['esperienza', 'abitudine', 'fico', 'disinformazione', 'invidia', 'mettessero', 'vedesse', 'lezione', 'sorpresa', 'distorsione']
+
+Id: 349
+Solution: punto
+['accolta', 'fai', 'milan', 'farò', 'repressa', 'respinta', 'chiedesse', 'faccio', 'faremo', 'grazia']
+
+Id: 350
+Solution: obiettivo
+['obiettivo', 'obbiettivo', 'attitudine', 'valore', 'culmina', 'incapacità', 'scopo', 'viaggiano', 'gradi', 'motivazione']
+
+Id: 351
+Solution: dipinto
+['mangiò', 'dipinta', 'misera', 'dipinto', 'porge', 'posata', 'cucchiaio', 'prendete', 'poggiata', 'teschio']
+
+Id: 352
+Solution: azione
+['secondi', 'avversaria', 'effettua', 'azione', 'solo', 'attesa', 'vantaggio', 'bloccato', 'effettuato', 'nuova']
+
+Id: 353
+Solution: nord
+['sovrasta', 'fissato', 'raggiunge', 'posizionato', 'sud', 'accompagna', 'invita', 'ex', 'prossimità', 'destra']
+
+Id: 354
+Solution: domenica
+['permettono', 'apertura', 'oggi', 'andare', 'facile', 'porterà', 'famoso', 'voluto', 'andò', 'statue']
+
+Id: 355
+Solution: dignità
+['dignità', 'ferocia', 'rivendicando', 'riferiva', 'presunzione', 'scatto', 'accolta', 'indicando', 'intelletto', 'riportarono']
+
+Id: 356
+Solution: pasta
+['sapeva', 'sgabello', 'benda', 'coniglio', 'spento', 'dialoga', 'viaggiava', 'cappotto', 'pallina', 'saprà']
+
+Id: 357
+Solution: cibo
+['divora', 'cyborg', 'sopravvento', 'liberare', 'crudeltà', 'tornava', 'uomo', 'schiacciato', 'cibo', 'tormenta']
+
+Id: 358
+Solution: nome
+['vada', 'amico', 'dimentica', 'sentito', 'ritornando', 'penso', 'padrone', 'dottore', 'spero', 'vedo']
+
+Id: 359
+Solution: accesso
+['accesso', 'offra', 'scaricato', 'perdevano', 'guadagnando', 'equivale', 'situa', 'congelato', 'connesso', 'rientrava']
+
+Id: 360
+Solution: conflitto
+['conflitto', 'manipolato', 'incrociando', 'conflitti', 'guerra', 'danneggiato', 'minacciava', 'danneggiata', 'concentrarono', 'danneggiati']
+
+Id: 361
+Solution: campione
+['aspiranti', 'scopre', 'medica', 'rivela', 'effettuata', 'amore', 'rivelò', 'rilevato', 'serve', 'fatti']
+
+Id: 362
+Solution: passaggio
+['percepito', 'subordinata', 'magico', 'risvegliare', 'spirituale', 'simboleggia', 'attivare', 'semplice', 'trasformando', 'mistero']
+
+Id: 363
+Solution: partenza
+['giudicato', 'pagando', 'pagato', 'sappia', 'garantito', 'riscossione', 'partenza', 'pulito', 'immobile', 'coincide']
+
+Id: 364
+Solution: tre
+['suffissi', 'contrappunto', 'eccezione', 'sovente', 'usiamo', 'volano', 'ossequio', 'valere', 'osservare', 'mandarino']
+
+Id: 365
+Solution: riparo
+['riparo', 'sembrò', 'protetto', 'riparato', 'presagio', 'portatore', 'arriverà', 'salvato', 'dono', 'nn']
+
+Id: 366
+Solution: trucco
+['labbra', 'velo', 'trucco', 'dipinge', 'coperchio', 'facendogli', 'peli', 'tratti', 'bocca', 'rivelerà']
+
+Id: 367
+Solution: assicurazione
+['assicurazioni', 'assicurazione', 'polizze', 'blindata', 'bella', 'rubata', 'guidava', 'autista', 'noleggio', 'fugge']
+
+Id: 368
+Solution: frequenza
+['frequenza', 'sentito', 'emissione', 'utilizzo', 'richiesto', 'impone', 'x', 'unito', 'libera', 'trasmissione']
+350
+Top 1: 129
+Top 5: 191
+Top 10: 211
+
+Precision @1: 0.36857142857142854
+Precision @5: 0.5457142857142857
+Precision @10: 0.60285714285714285
+MRR: 0.4418968253968254
+Coverage of clues: 0.9897142857142858

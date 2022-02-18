@@ -1,0 +1,608 @@
+Id: 1000
+Solution: paradiso
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1001
+Solution: pane
+['pane', 'stampato', 'seduto', 'curato', 'compra', 'frutta', 'ruba', 'tubo', 'stampati', 'collegato']
+
+Id: 1002
+Solution: pala
+['destra', 'messo', 'fa', 'inferiore', 'va', 'crognolo', 'pressupone', 'carpivo', 'concludessero', 'semicontemporanea']
+
+Id: 1003
+Solution: otto
+['fungo', 'pesce', 'avvicina', 'rubato', 'femmina', 'classe', 'apre', 'vive', 'trasformato', 'sta']
+
+Id: 1004
+Solution: ostia
+['pane', 'detta', 'forma', 'carne', 'usata', 'base', 'usano', 'dà', 'costituita', 'costituito']
+
+Id: 1005
+Solution: orchidea
+['provincia', 'crognolo', 'risurrezioni', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi']
+
+Id: 1006
+Solution: orso
+['orso', 'realizzato', 'impietosendo', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi']
+
+Id: 1007
+Solution: passo
+['passo', 'segnano', 'dedicare', 'menzionate', 'punti', 'chiuso', 'apostoli', 'troviamo', 'segnato', 'giocano']
+
+Id: 1008
+Solution: pelo
+['fuoriesce', 'riempito', 'pendente', 'avvolge', 'trasparente', 'allungato', 'pelo', 'gigantesco', 'avanzano', 'avvolta']
+
+Id: 1009
+Solution: perla
+['volta', 'crognolo', 'pressupone', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe']
+
+Id: 1010
+Solution: petto
+['unico', 'futuro', 'riportò', 'mancava', 'condottiero', 'protetto', 'sistemato', 'affiancato', 'incontrando', 'servizio']
+
+Id: 1011
+Solution: pezzo
+['ritrae', 'dance', 'vedo', 'bianco', 'pare', 'presentava', 'personale', 'associato', 'usata', 'basta']
+
+Id: 1012
+Solution: pirata
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1013
+Solution: po
+['specie', 'crognolo', 'impietosendo', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi']
+
+Id: 1014
+Solution: pollice
+['viaggia', 'andare', 'scatta', 'cambiato', 'differisce', 'signore', 'andando', 'arrivato', 'partendo', 'faceva']
+
+Id: 1015
+Solution: ponte
+['montagna', 'mare', 'spiaggia', 'ponte', 'zona', 'baia', 'costa', 'costiera', 'bacino', 'sud']
+
+Id: 1016
+Solution: posta
+['recitando', 'tradizionale', 'progettata', 'bel', 'segue', 'mano', 'scena', 'crea', 'nasce', 'risalente']
+
+Id: 1017
+Solution: prete
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1018
+Solution: prova
+['prova', 'serve', 'locale', 'fare', 'grandefratellizzando', 'pressupone', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler']
+
+Id: 1019
+Solution: punto
+['punto', 'dipinta', 'decorato', 'regge', 'rosso', 'neon', 'commissionata', 'guarisce', 'marmo', 'spicca']
+
+Id: 1020
+Solution: quadrato
+['abbandonare', 'giro', 'esempio', 'possibilità', 'livello', 'nascita', 'ottenere', 'fatto', 'mondo', 'semicontemporanea']
+
+Id: 1021
+Solution: quarto
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1022
+Solution: radice
+['radice', 'pianta', 'forma', 'conteneva', 'risale', 'simile', 'costituita', 'ottenuta', 'terreno', 'area']
+
+Id: 1023
+Solution: retta
+['retta', 'bisognava', 'abitudine', 'dote', 'promette', 'gente', 'vorrebbe', 'dovrà', 'disponibilità', 'voleva']
+
+Id: 1024
+Solution: rosa
+['rosa', 'tipico', 'va', 'chiamato', 'accompagnato', 'trasformare', 'guida', 'condotto', 'cavallo', 'armato']
+
+Id: 1025
+Solution: s
+['forma', 'crognolo', 'impietosendo', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi']
+
+Id: 1026
+Solution: scala
+['scala', 'crognolo', 'pressupone', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe']
+
+Id: 1027
+Solution: secondo
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1028
+Solution: sfinge
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1029
+Solution: sole
+['figli', 'disse', 'dicono', 'ostilità', 'cuore', 'restano', 'indicano', 'speciale', 'storie', 'chiede']
+
+Id: 1030
+Solution: spada
+['spada', 'notte', 'croce', 'mano', 'scopre', 'cielo', 'sorta', 'dire', 'resto', 'morte']
+
+Id: 1031
+Solution: specchio
+['bicchieri', 'stagno', 'specchio', 'bagno', 'fontana', 'carbone', 'smalto', 'trasparente', 'sufficienza', 'vetro']
+
+Id: 1032
+Solution: stadio
+['stadio', 'sezione', 'costruito', 'precedente', 'alte', 'nuovo', 'aria', 'sole', 'sud', 'alto']
+
+Id: 1033
+Solution: stella
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1034
+Solution: strisce
+['strisce', 'mancante', 'assente', 'contiene', 'basato', 'simile', 'bianco', 'tratti', 'guarda', 'accompagnato']
+
+Id: 1035
+Solution: tappeto
+['tappeto', 'integra', 'mani', 'mostro', 'cargo', 'oggetto', 'bestia', 'polizia', 'desiderato', 'terra']
+
+Id: 1036
+Solution: tempo
+['tempo', 'solito', 're', 'sangue', 'italiani', 'fatto', 'mezzo', 'strada', 'altri', 'fece']
+
+Id: 1037
+Solution: titanic
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1038
+Solution: torre
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1039
+Solution: tromba
+['cilindro', 'svilupperà', 'mantello', 'riproduce', 'collegato', 'inserito', 'disco', 'naso', 'uniforme', 'cilindri']
+
+Id: 1040
+Solution: trucco
+['trucco', 'padrone', 'nato', 'laboratorio', 'capace', 'abilità', 'ferro', 'semplice', 'usa', 'strumenti']
+
+Id: 1041
+Solution: tubo
+['tubo', 'comprare', 'negozio', 'composto', 'utilizza', 'tipo', 'alto', 'esempio', 'mettere', 'facendo']
+
+Id: 1042
+Solution: tutto
+['illuminazione', 'caricata', 'pedale', 'recupero', 'pistone', 'azionamento', 'valvola', 'contenevano', 'esercitata', 'accumulo']
+
+Id: 1043
+Solution: uovo
+['uovo', 'giunge', 'sguardo', 'palo', 'fondo', 'cammina', 'decretato', 'sole', 'mamma', 'vive']
+
+Id: 1044
+Solution: verde
+['crognolo', 'espasperanti', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe']
+
+Id: 1045
+Solution: vergine
+['tinge', 'striscia', 'vergine', 'ricoperta', 'umida', 'cintura', 'sfondo', 'coperta', 'ricoperto', 'spazia']
+
+Id: 1046
+Solution: verso
+['sacerdote', 'saggio', 'desiderio', 'sodalizio', 'stessa', 'famosa', 'cavaliere', 'studioso', 'esteso', 'sia']
+
+Id: 1047
+Solution: viola
+['influenza', 'compreso', 'dubbio', 'tempo', 'santo', 'va', 'raffigurante', 'svolse', 'festa', 'inizio']
+
+Id: 1048
+Solution: vuoto
+['vuoto', 'lasciato', 'passa', 'resto', 'rabbia', 'lascia', 'accetta', 'arrivare', 'faccia', 'destinato']
+
+Id: 1049
+Solution: zanzara
+['causa', 'genere', 'crognolo', 'luzzi', 'sbaragliano', 'espasperanti', 'alievo', 'divantato', 'dilungherei', 'carpivo']
+
+Id: 1050
+Solution: 18
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1051
+Solution: 33
+['studi', 'impietosendo', 'alievo', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi']
+
+Id: 1052
+Solution: a
+['presenza', 'film', 'crognolo', 'sipotrebbe', 'espasperanti', 'alievo', 'divantato', 'dilungherei', 'carpivo', 'concludessero']
+
+Id: 1053
+Solution: albero
+['paese', 'mondo', 'bel', 'largo', 'andare', 'esiste', 'lavorare', 'notte', 'bambini', 'trovava']
+
+Id: 1054
+Solution: alice
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1055
+Solution: arco
+['arco', 'giallo', 'finisce', 'sta', 'consiste', 'cercò', 'arriva', 'cerca', 'lati', 'mette']
+
+Id: 1056
+Solution: argento
+['argento', 'supera', 'presente', 'attesa', 'tratta', 'legato', 'raggiunge', 'bordo', 'noto', 'prende']
+
+Id: 1057
+Solution: aria
+['aria', 'uovo', 'decina', 'situati', 'va', 'muove', 'contenente', 'trovano', 'mantenimento', 'chiusa']
+
+Id: 1058
+Solution: assunzione
+['sottende', 'assunzione', 'fluttuante', 'saliva', 'assicurava', 'pose', 'volesse', 'porge', 'assunzioni', 'offerto']
+
+Id: 1059
+Solution: bacino
+['giorno', 'crognolo', 'impietosendo', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi']
+
+Id: 1060
+Solution: bandiera
+['cercavano', 'considerando', 'unico', 'partecipa', 'chiamati', 'assegnato', 'buono', 'va', 'solo', 'potente']
+
+Id: 1061
+Solution: basso
+['subì', 'basso', 'credeva', 'ripreso', 'sopravvivere', 'trovò', 'lanciare', 'impedì', 'fece', 'faceva']
+
+Id: 1062
+Solution: batteria
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1063
+Solution: battuta
+['temporaneo', 'comico', 'sofferente', 'colpito', 'spiegando', 'ferita', 'ferito', 'pugliese', 'stagionale', 'costrinse']
+
+Id: 1064
+Solution: becco
+['gigante', 'orecchie', 'becco', 'bella', 'carne', 'bocca', 'uova', 'rivela', 'cane', 'significa']
+
+Id: 1065
+Solution: bianco
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1066
+Solution: borsa
+['gigantesco', 'gorilla', 'morto', 'leggendario', 'difende', 'assieme', 'raffigurante', 'famoso', 'affrontare', 'noto']
+
+Id: 1067
+Solution: braccio
+['adoperato', 'coltello', 'collegato', 'prossimità', 'permetteva', 'fuoco', 'vicinanze', 'et', 'sfruttando', 'montato']
+
+Id: 1068
+Solution: bravo
+['diventa', 'altro', 'crognolo', 'impietosendo', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler']
+
+Id: 1069
+Solution: bugia
+['mano', 'coda', 'colpisce', 'piedi', 'mani', 'arriva', 'porta', 'idea', 'donna', 'uomo']
+
+Id: 1070
+Solution: calcio
+['colpi', 'colpo', 'esportata', 'sviluppando', 'attese', 'godette', 'giubbotto', 'rimossa', 'pensato', 'acquistando']
+
+Id: 1071
+Solution: camicia
+['camicia', 'partorire', 'partorito', 'contrazione', 'proteggere', 'rinforzare', 'maschio', 'abbandonano', 'genera', 'separato']
+
+Id: 1072
+Solution: cammello
+['va', 'divantato', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo', 'impietosendo']
+
+Id: 1073
+Solution: campana
+['consiste', 'istanze', 'parole', 'esigenze', 'nato', 'ritmo', 'diventato', 'questioni', 'segue', 'mette']
+
+Id: 1074
+Solution: canarino
+['crognolo', 'espasperanti', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe']
+
+Id: 1075
+Solution: cane
+['utilizza', 'rimarrà', 'uomo', 'prendere', 'recuperare', 'agente', 'moneta', 'chiudere', 'trovava', 'uccidere']
+
+Id: 1076
+Solution: cappa
+['prende', 'porta', 'dare', 'nota', 'giorno', 'sipotrebbe', 'divantato', 'dilungherei', 'carpivo', 'concludessero']
+
+Id: 1077
+Solution: cappello
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1078
+Solution: cardinale
+['decora', 'simboleggia', 'sottolineare', 'vivace', 'vola', 'rappresenta', 'scorge', 'rivela', 'sentito', 'diventi']
+
+Id: 1079
+Solution: caro
+['pollo', 'manca', 'conosciuto', 'fa', 'andato', 'dice', 'chiamato', 'piccolo', 'divenne', 'trova']
+
+Id: 1080
+Solution: carta
+['carta', 'getta', 'mostrano', 'muro', 'dà', 'cade', 'rappresenta', 'prima', 'appare', 'parco']
+
+Id: 1081
+Solution: catena
+['scende', 'catena', 'invernale', 'ghiaccio', 'addio', 'vento', 'coperte', 'protegge', 'evitando', 'coperta']
+
+Id: 1082
+Solution: cenere
+['teatro', 'ceneri', 'deserto', 'pietra', 'globo', 'sommità', 'emerge', 'petto', 'elegante', 'cinese']
+
+Id: 1083
+Solution: cesare
+['muore', 'folle', 'morta', 'informato', 'ruppe', 'invitati', 'informa', 'agosto', 'assistere', 'avvenuto']
+
+Id: 1084
+Solution: chiara
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1085
+Solution: chiodo
+['crognolo', 'espasperanti', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe']
+
+Id: 1086
+Solution: ciao
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1087
+Solution: cilindro
+['fa', 'stesso', 'crognolo', 'risurrezioni', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi']
+
+Id: 1088
+Solution: cinque
+['perde', 'sezione', 'sente', 'chiuso', 'rappresentato', 'alti', 'rosso', 'interni', 'passa', 'definito']
+
+Id: 1089
+Solution: cipolla
+['maschera', 'cornice', 'scende', 'bella', 'porta', 'realizzata', 'cade', 'metri', 'formata', 'rimasta']
+
+Id: 1090
+Solution: coda
+['ferì', 'conficcato', 'bue', 'possedeva', 'colpisce', 'ferito', 'colpito', 'assomigliava', 'rimediato', 'rotto']
+
+Id: 1091
+Solution: collo
+['collo', 'cercava', 'meglio', 'sta', 'tocca', 'angolo', 'usava', 'trovata', 'entrato', 'perde']
+
+Id: 1092
+Solution: coniglio
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1093
+Solution: conti
+['conti', 'occhi', 'freddezza', 'convincono', 'permisero', 'trasferire', 'propri', 'diplomatici', 'sparire', 'disegni']
+
+Id: 1094
+Solution: corno
+['trovato', 'sembrano', 'bisogno', 'trova', 'bambini', 'causa', 'crognolo', 'spioler', 'espasperanti', 'alievo']
+
+Id: 1095
+Solution: corpo
+['sacrificio', 'cane', 'esce', 'associazione', 'popoli', 'corpo', 'uniti', 'gusto', 'tradizionale', 'soccorso']
+
+Id: 1096
+Solution: corsa
+['caricato', 'trasporta', 'salendo', 'trasportava', 'prendo', 'trasportato', 'rubato', 'scappò', 'trainato', 'corsa']
+
+Id: 1097
+Solution: corte
+['corte', 'vollero', 'sentono', 'domande', 'presentazioni', 'estero', 'facciano', 'fanno', 'costituiti', 'pensieri']
+
+Id: 1098
+Solution: costa
+['cuore', 'rende', 'costa', 'detto', 'solito', 'fa', 'fare', 'esempio', 'mano', 'testa']
+
+Id: 1099
+Solution: cubo
+['arriva', 'visto', 'fatto', 'tempo', 'crognolo', 'luzzi', 'espasperanti', 'alievo', 'divantato', 'dilungherei']
+
+Id: 1100
+Solution: cuore
+['cuore', 'tagliata', 'grigia', 'incastrato', 'penetra', 'bianco', 'brucia', 'finiva', 'diavolo', 'supera']
+
+Id: 1101
+Solution: deserto
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1102
+Solution: diamante
+['contenente', 'simile', 'solito', 'tradizionale', 'utilizzando', 'deriva', 'forma', 'crognolo', 'luzzi', 'alievo']
+
+Id: 1103
+Solution: diavolo
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1104
+Solution: disco
+['forma', 'crognolo', 'impietosendo', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi']
+
+Id: 1105
+Solution: due
+['gara', 'sostituita', 'fusione', 'raggiunge', 'vince', 'media', 'bordo', 'gioco', 'totale', 'lascia']
+
+Id: 1106
+Solution: erba
+['stesso', 'crognolo', 'pressupone', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1107
+Solution: ferro
+['ferro', 'abbassato', 'muro', 'guardare', 'bastone', 'snoda', 'cappello', 'scudi', 'pallone', 'porto']
+
+Id: 1108
+Solution: festa
+['cammina', 'maestra', 'bel', 'disposta', 'maestro', 'cavaliere', 'sta', 'filo', 'facesse', 'piccolo']
+
+Id: 1109
+Solution: fiera
+['fiera', 'demone', 'asiatici', 'sente', 'dice', 'vedova', 'sa', 'giunge', 'attaccata', 'san']
+
+Id: 1110
+Solution: fine
+['girando', 'incontra', 'san', 'maestro', 'spettacolo', 'privato', 'rivela', 'segue', 'scelse', 'finisce']
+
+Id: 1111
+Solution: fiocco
+['fiocco', 'massaggio', 'tira', 'coperta', 'protegge', 'coperto', 'taglio', 'assomiglia', 'freddo', 'bianca']
+
+Id: 1112
+Solution: fiore
+['metà', 'cavallo', 'guarda', 'viola', 'detta', 'medioevo', 'ottenuta', 'risale', 'gigante', 'significa']
+
+Id: 1113
+Solution: fondo
+['fondo', 'abbigliamento', 'avanza', 'collegato', 'percorrendo', 'ritirato', 'tratto', 'orientato', 'maschile', 'contrasta']
+
+Id: 1114
+Solution: forma
+['rosa', 'genera', 'pesante', 'norma', 'media', 'legata', 'indicare', 'effetto', 'bella', 'vecchio']
+
+Id: 1115
+Solution: franco
+['simboleggiava', 'sentimento', 'franco', 'versava', 'dolore', 'amore', 'lasciarono', 'bocca', 'crebbe', 'protegge']
+
+Id: 1116
+Solution: fuoco
+['fuoco', 'ricavata', 'sabbia', 'ghiaccio', 'usata', 'creatura', 'finta', 'utilizzata', 'bocca', 'isola']
+
+Id: 1117
+Solution: fuso
+['speranza', 'volta', 'ordine', 'dicembre', 'annunciato', 'va', 'club', 'argomento', 'movimento', 'data']
+
+Id: 1118
+Solution: gallo
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1119
+Solution: gambe
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1120
+Solution: ghiaccio
+['ghiaccio', 'sparato', 'appare', 'bacio', 'attestano', 'tutto', 'oggi', 'gusto', 'vecchio', 'piedi']
+
+Id: 1121
+Solution: gobbo
+['scelto', 'simile', 'diventato', 'fatto', 'mette', 'dato', 'tornare', 'voce', 'fa', 'dare']
+
+Id: 1122
+Solution: guardia
+['campione', 'farà', 'incontro', 'impegnato', 'squadra', 'ritirato', 'club', 'vince', 'esperienza', 'organizzato']
+
+Id: 1123
+Solution: imposta
+['debito', 'formano', 'cosi', 'corrisponde', 'reso', 'sembra', 'ritrova', 'sembrava', 'aggiunge', 'riconoscere']
+
+Id: 1124
+Solution: indice
+['seduto', 'ordina', 'identifica', 'impone', 'foto', 'creduto', 'inserisce', 'conversazione', 'segue', 'gigantesco']
+
+Id: 1125
+Solution: lacrime
+['conservazione', 'naturale', 'forma', 'espasperanti', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler']
+
+Id: 1126
+Solution: ladro
+['contiene', 'livello', 'stato', 'crognolo', 'mellifuo', 'alievo', 'divantato', 'dilungherei', 'carpivo', 'concludessero']
+
+Id: 1127
+Solution: lanterna
+['colpa', 'chiede', 'andare', 'arriva', 'preso', 'visto', 'esempio', 'fatto', 'trovava', 'ghè']
+
+Id: 1128
+Solution: legno
+['legno', 'porta', 'argento', 'tronco', 'spada', 'perso', 'destro', 'rosso', 'enorme', 'piede']
+
+Id: 1129
+Solution: linea
+['filo', 'finirà', 'vuoto', 'carburante', 'capita', 'combattimento', 'capace', 'consentiva', 'peso', 'agilità']
+
+Id: 1130
+Solution: lingua
+['pelliccia', 'somigliava', 'rasati', 'coda', 'assomiglia', 'tigre', 'avvolge', 'pancia', 'groppa', 'spaventato']
+
+Id: 1131
+Solution: luna
+['luna', 'suicidò', 'getta', 'caduto', 'protegge', 'ubicazione', 'ritrovata', 'identificata', 'gettare', 'esisteva']
+
+Id: 1132
+Solution: maggio
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1133
+Solution: maiale
+['rappresenta', 'premio', 'mondo', 'sembra', 'imbarazzantissima', 'sipotrebbe', 'alievo', 'divantato', 'rifinisca', 'dilungherei']
+
+Id: 1134
+Solution: mano
+['mano', 'metterà', 'derivazione', 'pubblicò', 'emerge', 'sconfitta', 'scala', 'riscontrato', 'evidenziato', 'questione']
+
+Id: 1135
+Solution: materasso
+['ritrova', 'verde', 'porta', 'mettendo', 'raccolti', 'faceva', 'riposo', 'grande', 'cade', 'nota']
+
+Id: 1136
+Solution: matrimonio
+['passando', 'mezzosangue', 'cedette', 'capra', 'salta', 'lucertola', 'pergamena', 'riferì', 'anonimo', 'ritratta']
+
+Id: 1137
+Solution: mezzanotte
+['effetto', 'crognolo', 'risurrezioni', 'divantato', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi']
+
+Id: 1138
+Solution: mille
+['fuoriescono', 'risaltano', 'incanto', 'girano', 'alghe', 'vittorioso', 'penetrano', 'sfugge', 'spettri', 'fiori']
+
+Id: 1139
+Solution: mina
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1140
+Solution: mondo
+['svuotato', 'tavoli', 'risultò', 'chiostro', 'trova', 'esisteva', 'bella', 'coperto', 'accoglie', 'piano']
+
+Id: 1141
+Solution: monte
+['sai', 'dice', 'neve', 'partendo', 'settembre', 'fondo', 'chiamata', 'facevano', 'pesci', 'porta']
+
+Id: 1142
+Solution: mosca
+['mosca', 'conta', 'rosso', 'macchina', 'varietà', 'base', 'va', 'comune', 'dice', 'occidentale']
+
+Id: 1143
+Solution: muro
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+
+Id: 1144
+Solution: noce
+['bianca', 'passa', 'prodotto', 'mano', 'significa', 'portato', 'punta', 'porta', 'base', 'esempio']
+
+Id: 1145
+Solution: notte
+['seduto', 'stesso', 'risurrezioni', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe']
+
+Id: 1146
+Solution: occhio
+['gola', 'chiamato', 'esempio', 'tipo', 'imbarazzantissima', 'felicito', 'espasperanti', 'alievo', 'divantato', 'dilungherei']
+
+Id: 1147
+Solution: ombra
+['invenzione', 'servito', 'apparenza', 'compra', 'offerto', 'riso', 'trasporta', 'inventò', 'produce', 'detto']
+
+Id: 1148
+Solution: onda
+['onda', 'trasmettono', 'onde', 'tenuta', 'famosa', 'banda', 'vacanza', 'esclusiva', 'mattina', 'bordo']
+
+Id: 1149
+Solution: ora
+['crognolo', 'alievo', 'dilungherei', 'carpivo', 'concludessero', 'semicontemporanea', 'spioler', 'luzzi', 'sipotrebbe', 'mellifuo']
+Top 1: 38
+Top 5: 47
+Top 10: 50
+
+Precision @1: 0.25333333333333335
+Precision @5: 0.31333333333333335
+Precision @10: 0.3333333333333333
+MRR: 0.27884126984126983
+Coverage of clues: 0.8866666666666667
