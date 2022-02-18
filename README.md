@@ -2,7 +2,7 @@
 This system depicts an artificial player for the TV Italian language game "La ghigliottina"
 <br>
 ## Links for downloading the corpora: 
-PAISà: https://clarin.eurac.edu/repository/xmlui/handle/20.500.12124/3
+PAISà: https://clarin.eurac.edu/repository/xmlui/handle/20.500.12124/3 <br>
 WIKIPEDIA DUMP: http://itwiki-20220101-pages-articles-multistream.xml.bz2
 
 ### Wikiextractor tool: 
