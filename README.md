@@ -1,5 +1,5 @@
 # MIGUS_guillottine_solver
-This system depicts an artificial player for the TV Italian language game "La ghigliottina"
+This system depicts an artificial player for the TV Italian language game "La ghigliottina". A detailed description of the system is reported in **report.tex**
 <br>
 ## Links for downloading the corpora: 
 PAISà: https://clarin.eurac.edu/repository/xmlui/handle/20.500.12124/3 <br>
