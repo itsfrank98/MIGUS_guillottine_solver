@@ -1,2 +1,2 @@
 # MIGUS_guillottine_solver
-La ghigliottina solver
+This system depicts an artificial player for the TV Italian language game "La ghigliottina"
