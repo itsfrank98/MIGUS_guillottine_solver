@@ -1,0 +1,3790 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+-
+- phpMyAdmin XML Dump
+- version 2.9.1.1
+- http://www.phpmyadmin.net
+-
+- Host: 62.149.150.62
+- Generato il: 16 Nov, 2007 at 07:22 PM
+- Versione MySQL: 5.0.45
+- Versione PHP: 4.3.11
+-->
+
+<!--
+- Database: 'Sql116607_2'
+-->
+<Sql116607_2>
+  <!-- Tabella gioco -->
+    <gioco>
+        <id>1</id>
+        <data>1159826400</data>
+        <def1>vespa</def1>
+        <def2>HM</def2>
+        <def3>madonna</def3>
+        <def4>olanda</def4>
+        <def5>uva</def5>
+        <sol>regina</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>2</id>
+        <data>1159912800</data>
+        <def1>fucile</def1>
+        <def2>torace</def2>
+        <def3>bel</def3>
+        <def4>alto</def4>
+        <def5>benzina</def5>
+        <sol>fusto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>3</id>
+        <data>1159999200</data>
+        <def1>anello</def1>
+        <def2>cavaliere</def2>
+        <def3>giro</def3>
+        <def4>diritto</def4>
+        <def5>salute</def5>
+        <sol>maglia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>4</id>
+        <data>1160085600</data>
+        <def1>baseball</def1>
+        <def2>posta</def2>
+        <def3>lama</def3>
+        <def4>giorno</def4>
+        <def5>stile</def5>
+        <sol>piatto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>5</id>
+        <data>1160172000</data>
+        <def1>formula 1</def1>
+        <def2>slot machine</def2>
+        <def3>pressione</def3>
+        <def4>sbarra</def4>
+        <def5>mario</def5>
+        <sol>bar</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>6</id>
+        <data>1160344800</data>
+        <def1>1795-1805</def1>
+        <def2>vapore</def2>
+        <def3>elle</def3>
+        <def4>maniglie</def4>
+        <def5>senatore</def5>
+        <sol>cavallo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>7</id>
+        <data>1160431200</data>
+        <def1>scemotto</def1>
+        <def2>ride</def2>
+        <def3>passione</def3>
+        <def4>selvaggio</def4>
+        <def5>dea</def5>
+        <sol>venerdì</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>8</id>
+        <data>1160517600</data>
+        <def1>francese</def1>
+        <def2>portare</def2>
+        <def3>tifo</def3>
+        <def4>linea</def4>
+        <def5>mistero</def5>
+        <sol>fede</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>9</id>
+        <data>1160604000</data>
+        <def1>Napoleone</def1>
+        <def2>secoli</def2>
+        <def3>sordi</def3>
+        <def4>dito</def4>
+        <def5>cipro</def5>
+        <sol>polvere</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>10</id>
+        <data>1160690400</data>
+        <def1>insalata</def1>
+        <def2>primo</def2>
+        <def3>francese</def3>
+        <def4>galline</def4>
+        <def5>ulisse</def5>
+        <sol>letto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>11</id>
+        <data>1160776800</data>
+        <def1>Nicola</def1>
+        <def2>Roma</def2>
+        <def3>farina</def3>
+        <def4>pranzo</def4>
+        <def5>poltrona</def5>
+        <sol>sacco</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>12</id>
+        <data>1160949600</data>
+        <def1>bello</def1>
+        <def2>inter</def2>
+        <def3>vino</def3>
+        <def4>indosso</def4>
+        <def5>fronte</def5>
+        <sol>porto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>13</id>
+        <data>1161036000</data>
+        <def1>spedito</def1>
+        <def2>gigante</def2>
+        <def3>uomo</def3>
+        <def4>carica</def4>
+        <def5>vita</def5>
+        <sol>passo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>14</id>
+        <data>1161122400</data>
+        <def1>senza</def1>
+        <def2>camera</def2>
+        <def3>ragazza</def3>
+        <def4>quattro</def4>
+        <def5>roulette</def5>
+        <sol>pari</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>15</id>
+        <data>1161208800</data>
+        <def1>fusto</def1>
+        <def2>infame</def2>
+        <def3>auto</def3>
+        <def4>quotidiano</def4>
+        <def5>termometro</def5>
+        <sol>colonna</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>16</id>
+        <data>1161295200</data>
+        <def1>secondo</def1>
+        <def2>barba</def2>
+        <def3>codice</def3>
+        <def4>concerto</def4>
+        <def5>Mimì</def5>
+        <sol>onore</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>17</id>
+        <data>1161381600</data>
+        <def1>quaranta</def1>
+        <def2>Scalfaro</def2>
+        <def3>perdonare</def3>
+        <def4>porta</def4>
+        <def5>Donna Rosa</def5>
+        <sol>sette</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>18</id>
+        <data>1161554400</data>
+        <def1>leonardo</def1>
+        <def2>andare</def2>
+        <def3>desideri</def3>
+        <def4>colpo</def4>
+        <def5>navale</def5>
+        <sol>genio</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>19</id>
+        <data>1161640800</data>
+        <def1>tavola</def1>
+        <def2>pazienza</def2>
+        <def3>pesce</def3>
+        <def4>rosa</def4>
+        <def5>nuvola</def5>
+        <sol>fumetto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>20</id>
+        <data>1161727200</data>
+        <def1>fiori</def1>
+        <def2>mostra</def2>
+        <def3>piazza</def3>
+        <def4>nuovo</def4>
+        <def5>uscire</def5>
+        <sol>mercato</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>21</id>
+        <data>1161813600</data>
+        <def1>denti</def1>
+        <def2>tesoro</def2>
+        <def3>norvegia</def3>
+        <def4>stella</def4>
+        <def5>orologio</def5>
+        <sol>corona</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>22</id>
+        <data>1162422000</data>
+        <def1>scrittore</def1>
+        <def2>opera</def2>
+        <def3>città</def3>
+        <def4>acchiappa</def4>
+        <def5>formaggino</def5>
+        <sol>fantasma</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>23</id>
+        <data>1162854000</data>
+        <def1>ago</def1>
+        <def2>mettere</def2>
+        <def3>mare</def3>
+        <def4>rivoluzione</def4>
+        <def5>proprio</def5>
+        <sol>moto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>24</id>
+        <data>1162940400</data>
+        <def1>polo</def1>
+        <def2>vino</def2>
+        <def3>gesto</def3>
+        <def4>neon</def4>
+        <def5>piano</def5>
+        <sol>nobile</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>25</id>
+        <data>1163026800</data>
+        <def1>muro</def1>
+        <def2>vento</def2>
+        <def3>dalai lama</def3>
+        <def4>scacchi</def4>
+        <def5>musica</def5>
+        <sol>maestro</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>26</id>
+        <data>1163199600</data>
+        <def1>libro</def1>
+        <def2>principe</def2>
+        <def3>testa</def3>
+        <def4>azione</def4>
+        <def5>cronaca</def5>
+        <sol>titolo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>27</id>
+        <data>1163372400</data>
+        <def1>fiume</def1>
+        <def2>alice</def2>
+        <def3>carne</def3>
+        <def4>vita</def4>
+        <def5>figuraccia</def5>
+        <sol>magra</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>28</id>
+        <data>1163458800</data>
+        <def1>bambini</def1>
+        <def2>acqua</def2>
+        <def3>reno</def3>
+        <def4>libia</def4>
+        <def5>carcere</def5>
+        <sol>colonia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>29</id>
+        <data>1163545200</data>
+        <def1>sotto</def1>
+        <def2>pane</def2>
+        <def3>cambio</def3>
+        <def4>massaggio</def4>
+        <def5>puglia</def5>
+        <sol>olio</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>30</id>
+        <data>1163631600</data>
+        <def1>una lira</def1>
+        <def2>braccio</def2>
+        <def3>pesca</def3>
+        <def4>romana</def4>
+        <def5>cucina</def5>
+        <sol>bilancia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>31</id>
+        <data>1163718000</data>
+        <def1>venere</def1>
+        <def2>pelo</def2>
+        <def3>scorpione</def3>
+        <def4>sciare</def4>
+        <def5>corrente</def5>
+        <sol>acqua</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>32</id>
+        <data>1163804400</data>
+        <def1>cercare</def1>
+        <def2>favole</def2>
+        <def3>giallo</def3>
+        <def4>radio</def4>
+        <def5>Modugno</def5>
+        <sol>telefono</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>33</id>
+        <data>1163977200</data>
+        <def1>polizia</def1>
+        <def2>asia</def2>
+        <def3>aggressiva</def3>
+        <def4>protesta</def4>
+        <def5>siena</def5>
+        <sol>pantera</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>34</id>
+        <data>1164063600</data>
+        <def1>Bianco</def1>
+        <def2>Filo</def2>
+        <def3>Racconti</def3>
+        <def4>Pirati</def4>
+        <def5>Argento</def5>
+        <sol>Terrore</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>35</id>
+        <data>1164150000</data>
+        <def1>Muscolo</def1>
+        <def2>Cerotto</def2>
+        <def3>Pesi</def3>
+        <def4>Lattina</def4>
+        <def5>Regola</def5>
+        <sol>Strappo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>36</id>
+        <data>1164236400</data>
+        <def1>pinocchio</def1>
+        <def2>kennedy</def2>
+        <def3>re mida</def3>
+        <def4>shrek</def4>
+        <def5>apuleio</def5>
+        <sol>asino</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>37</id>
+        <data>1164322800</data>
+        <def1>colpo</def1>
+        <def2>sotto</def2>
+        <def3>craxi</def3>
+        <def4>puglia</def4>
+        <def5>basso</def5>
+        <sol>tacco</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>38</id>
+        <data>1164582000</data>
+        <def1>D-day</def1>
+        <def2>bianca</def2>
+        <def3>inizio</def3>
+        <def4>macellaio</def4>
+        <def5>dolcetto</def5>
+        <sol>alba</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>39</id>
+        <data>1164668400</data>
+        <def1>sapere</def1>
+        <def2>orecchio</def2>
+        <def3>gabbietta</def3>
+        <def4>benzina</def4>
+        <def5>corona</def5>
+        <sol>tappo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>40</id>
+        <data>1164754800</data>
+        <def1>Pietro</def1>
+        <def2>Robinson</def2>
+        <def3>pesce</def3>
+        <def4>pipì</def4>
+        <def5>imparare</def5>
+        <sol>pappagallo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>41</id>
+        <data>1164841200</data>
+        <def1>parmigiano</def1>
+        <def2>gonna</def2>
+        <def3>convento</def3>
+        <def4>seguire</def4>
+        <def5>tortura</def5>
+        <sol>ruota</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>42</id>
+        <data>1165014000</data>
+        <def1>cervello</def1>
+        <def2>crociera</def2>
+        <def3>cielo</def3>
+        <def4>buona</def4>
+        <def5>alessandro</def5>
+        <sol>volta</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>43</id>
+        <data>1165186800</data>
+        <def1>rivista</def1>
+        <def2>colle</def2>
+        <def3>pazza</def3>
+        <def4>bella</def4>
+        <def5>inno</def5>
+        <sol>gioia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>44</id>
+        <data>1165273200</data>
+        <def1>marzo</def1>
+        <def2>bacchette</def2>
+        <def3>ombra</def3>
+        <def4>bombetta</def4>
+        <def5>gesto</def5>
+        <sol>ombrello</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>45</id>
+        <data>1165359600</data>
+        <def1>Atene</def1>
+        <def2>cuore</def2>
+        <def3>normale</def3>
+        <def4>polizia</def4>
+        <def5>bus</def5>
+        <sol>scuola</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>46</id>
+        <data>1165446000</data>
+        <def1>intelligente</def1>
+        <def2>becco</def2>
+        <def3>Re di Francia</def3>
+        <def4>flipper</def4>
+        <def5>farfalla</def5>
+        <sol>delfino</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>47</id>
+        <data>1165532400</data>
+        <def1>fiore</def1>
+        <def2>piede</def2>
+        <def3>amaro</def3>
+        <def4>rene</def4>
+        <def5>fuoco</def5>
+        <sol>calice</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>48</id>
+        <data>1165618800</data>
+        <def1>comune</def1>
+        <def2>arte</def2>
+        <def3>passaporto</def3>
+        <def4>fatto</def4>
+        <def5>destino</def5>
+        <sol>nome</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>49</id>
+        <data>1165791600</data>
+        <def1>sfera</def1>
+        <def2>verde</def2>
+        <def3>divino</def3>
+        <def4>largo</def4>
+        <def5>uva</def5>
+        <sol>raggio</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>50</id>
+        <data>1165878000</data>
+        <def1>scrittura</def1>
+        <def2>quota</def2>
+        <def3>mosca</def3>
+        <def4>gola</def4>
+        <def5>umano</def5>
+        <sol>capitale</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>51</id>
+        <data>1165964400</data>
+        <def1>animale</def1>
+        <def2>cavallo</def2>
+        <def3>paradiso</def3>
+        <def4>inter</def4>
+        <def5>1861-1946</def5>
+        <sol>regno</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>52</id>
+        <data>1166050800</data>
+        <def1>Ambra</def1>
+        <def2>Soldi</def2>
+        <def3>Donna</def3>
+        <def4>Scandalo</def4>
+        <def5>Gocce</def5>
+        <sol>Profumo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>53</id>
+        <data>1166223600</data>
+        <def1>Frutta</def1>
+        <def2>Carattere</def2>
+        <def3>Pagare</def3>
+        <def4>Scherzo</def4>
+        <def5>Lucrezio</def5>
+        <sol>Natura</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>54</id>
+        <data>1166137200</data>
+        <def1>Va</def1>
+        <def2>Coperta</def2>
+        <def3>Fantasma</def3>
+        <def4>Cammello</def4>
+        <def5>Scuola</def5>
+        <sol>Nave</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>55</id>
+        <data>1166396400</data>
+        <def1>Nove</def1>
+        <def2>Donna</def2>
+        <def3>Egitto</def3>
+        <def4>Pesce</def4>
+        <def5>Romeo</def5>
+        <sol>Gatto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>56</id>
+        <data>1166482800</data>
+        <def1>Cucina cinese</def1>
+        <def2>Ape</def2>
+        <def3>Camino</def3>
+        <def4>Due anni</def4>
+        <def5>Uova</def5>
+        <sol>Nido</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>57</id>
+        <data>1166569200</data>
+        <def1>Palatino</def1>
+        <def2>Tempio</def2>
+        <def3>Monaca</def3>
+        <def4>Cipolla</def4>
+        <def5>Stendere</def5>
+        <sol>Velo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>58</id>
+        <data>1166655600</data>
+        <def1>chiara</def1>
+        <def2>pane</def2>
+        <def3>metro</def3>
+        <def4>tigre</def4>
+        <def5>televisione</def5>
+        <sol>neve</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>60</id>
+        <data>1167692400</data>
+        <def1>Leggere</def1>
+        <def2>Re</def2>
+        <def3>Camera</def3>
+        <def4>Orecchie</def4>
+        <def5>Carta</def5>
+        <sol>Musica</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>61</id>
+        <data>1167778800</data>
+        <def1>Dalmata</def1>
+        <def2>Ristorante</def2>
+        <def3>Mozzarella</def3>
+        <def4>Berlina</def4>
+        <def5>Zucca</def5>
+        <sol>Carrozza</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>62</id>
+        <data>1167865200</data>
+        <def1>Vergine</def1>
+        <def2>Formaggio</def2>
+        <def3>Vino</def3>
+        <def4>Cella</def4>
+        <def5>Luna</def5>
+        <sol>Miele</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>63</id>
+        <data>1167951600</data>
+        <def1>Notte</def1>
+        <def2>Giudizio</def2>
+        <def3>Linea</def3>
+        <def4>Leone</def4>
+        <def5>Pizza</def5>
+        <sol>Metro</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>64</id>
+        <data>1168038000</data>
+        <def1>Miraggio</def1>
+        <def2>Cono</def2>
+        <def3>Mani</def3>
+        <def4>Madrina</def4>
+        <def5>Bella</def5>
+        <sol>Fata</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>65</id>
+        <data>1136761200</data>
+        <def1>pasta</def1>
+        <def2>pugile</def2>
+        <def3>pellegrino</def3>
+        <def4>collezione</def4>
+        <def5>ostrica</def5>
+        <sol>conchiglia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>66</id>
+        <data>1168210800</data>
+        <def1>Giulia</def1>
+        <def2>Comune</def2>
+        <def3>Mare</def3>
+        <def4>Testata</def4>
+        <def5>Brava</def5>
+        <sol>Gente</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>68</id>
+        <data>1168383600</data>
+        <def1>Cammello</def1>
+        <def2>Corso</def2>
+        <def3>Colosseo</def3>
+        <def4>Scudo</def4>
+        <def5>Giunone</def5>
+        <sol>Moneta</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>69</id>
+        <data>1168556400</data>
+        <def1>Mani</def1>
+        <def2>Dente</def2>
+        <def3>Norma</def3>
+        <def4>Uomo</def4>
+        <def5>Uovo</def5>
+        <sol>Pasta</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>70</id>
+        <data>1168642800</data>
+        <def1>Lingua</def1>
+        <def2>Striscia</def2>
+        <def3>Vite</def3>
+        <def4>Pomodoro</def4>
+        <def5>Contro</def5>
+        <sol>Filetto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>71</id>
+        <data>1168815600</data>
+        <def1>Argento</def1>
+        <def2>Repubblica</def2>
+        <def3>Politica</def3>
+        <def4>Canino</def4>
+        <def5>Domenica</def5>
+        <sol>Ulivo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>72</id>
+        <data>1168902000</data>
+        <def1>Vuoto</def1>
+        <def2>Rabbia</def2>
+        <def3>Telefono</def3>
+        <def4>Stipendio</def4>
+        <def5>Serratura</def5>
+        <sol>Scatto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>73</id>
+        <data>1168988400</data>
+        <def1>Napoli</def1>
+        <def2>50</def2>
+        <def3>Rosso</def3>
+        <def4>Bocca</def4>
+        <def5>Età</def5>
+        <sol>Oro</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>74</id>
+        <data>1169074800</data>
+        <def1>Filtro </def1>
+        <def2>Decadenza </def2>
+        <def3>1999</def3>
+        <def4>Cono</def4>
+        <def5>Luna</def5>
+        <sol>Eclissi</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>75</id>
+        <data>1169161200</data>
+        <def1>Firenze</def1>
+        <def2>Ferro</def2>
+        <def3>Carta</def3>
+        <def4>Tagliatelle</def4>
+        <def5>Nespole</def5>
+        <sol>Paglia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>76</id>
+        <data>1169247600</data>
+        <def1>Tenore</def1>
+        <def2>Professore</def2>
+        <def3>Organo</def3>
+        <def4>Cambiare</def4>
+        <def5>Ufficio</def5>
+        <sol>Registro</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>77</id>
+        <data>1192485600</data>
+        <def1>giorno</def1>
+        <def2>gioco</def2>
+        <def3>macchina</def3>
+        <def4>giuramento</def4>
+        <def5>dico</def5>
+        <sol>verità</sol>
+        <tipo></tipo>
+        <descr>giorno della verità
+gioco della verità
+macchina della verità
+nel giuramento si dice la verità
+in verità vi dico</descr>
+    </gioco>
+    <gioco>
+        <id>78</id>
+        <data>1169420400</data>
+        <def1>Padre</def1>
+        <def2>San Bernardo</def2>
+        <def3>Grande</def3>
+        <def4>Trieste</def4>
+        <def5>Minuto</def5>
+        <sol>Piccolo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>79</id>
+        <data>1169506800</data>
+        <def1>Stella</def1>
+        <def2>Città</def2>
+        <def3>Poltrona</def3>
+        <def4>Scope</def4>
+        <def5>Prima</def5>
+        <sol>Cimema</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>80</id>
+        <data>1169593200</data>
+        <def1>Pane</def1>
+        <def2>Secondo</def2>
+        <def3>Staffetta</def3>
+        <def4>Sbarra</def4>
+        <def5>Comune</def5>
+        <sol>Frazione</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>81</id>
+        <data>1169679600</data>
+        <def1>Perugia</def1>
+        <def2>Mao</def2>
+        <def3>Banda</def3>
+        <def4>Prima</def4>
+        <def5>Acqua</def5>
+        <sol>Marcia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>82</id>
+        <data>1169766000</data>
+        <def1>Chiudi</def1>
+        <def2>Rilievo</def2>
+        <def3>Pomodoro</def3>
+        <def4>Vetro</def4>
+        <def5>Manico</def5>
+        <sol>Serra</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>83</id>
+        <data>1169852400</data>
+        <def1>Fuggi</def1>
+        <def2>Trama</def2>
+        <def3>Libro</def3>
+        <def4>Olio</def4>
+        <def5>Teatro</def5>
+        <sol>Tela</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>84</id>
+        <data>1170025200</data>
+        <def1>Vero</def1>
+        <def2>Mondo</def2>
+        <def3>Rana</def3>
+        <def4>Memoria</def4>
+        <def5>Affari</def5>
+        <sol>Uomo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>85</id>
+        <data>1170111600</data>
+        <def1>Tutti</def1>
+        <def2>Cardinale</def2>
+        <def3>Pericolo</def3>
+        <def4>Mille</def4>
+        <def5>Mattina</def5>
+        <sol>Uno</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>86</id>
+        <data>1170198000</data>
+        <def1>Totò</def1>
+        <def2>Sinistro</def2>
+        <def3>Volpe</def3>
+        <def4>Nave</def4>
+        <def5>Imperiale</def5>
+        <sol>Corvo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>87</id>
+        <data>1192399200</data>
+        <def1>mai</def1>
+        <def2>chiuso</def2>
+        <def3>pericolo</def3>
+        <def4>metti</def4>
+        <def5>umano</def5>
+        <sol>caso</sol>
+        <tipo></tipo>
+        <descr>caso mai
+il caso è chiuso
+in caso di pericolo
+metti caso
+caso umano</descr>
+    </gioco>
+    <gioco>
+        <id>88</id>
+        <data>1170716400</data>
+        <def1>Duro</def1>
+        <def2>Avere</def2>
+        <def3>Martello</def3>
+        <def4>Medio</def4>
+        <def5>G</def5>
+        <sol>Orecchio</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>89</id>
+        <data>1170802800</data>
+        <def1>Spazio</def1>
+        <def2>Affare</def2>
+        <def3>Idiota</def3>
+        <def4>Numero</def4>
+        <def5>Tornare</def5>
+        <sol>Utile</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>90</id>
+        <data>1170889200</data>
+        <def1>Uno</def1>
+        <def2>Notte</def2>
+        <def3>La Trippa</def3>
+        <def4>Auto</def4>
+        <def5>Palazzo</def5>
+        <sol>Portiere</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>91</id>
+        <data>1170975600</data>
+        <def1>Teatro</def1>
+        <def2>Neve</def2>
+        <def3>Palla</def3>
+        <def4>Lettere</def4>
+        <def5>Video</def5>
+        <sol>Buca</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>92</id>
+        <data>1171062000</data>
+        <def1>Politica</def1>
+        <def2>Inverno</def2>
+        <def3>Massimo</def3>
+        <def4>Termini</def4>
+        <def5>Tiro</def5>
+        <sol>Rigore</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>93</id>
+        <data>1171234800</data>
+        <def1>Roccia</def1>
+        <def2>Asino</def2>
+        <def3>Liguria</def3>
+        <def4>Menù</def4>
+        <def5>Classe</def5>
+        <sol>Lavagna</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>94</id>
+        <data>1171321200</data>
+        <def1>Piedi</def1>
+        <def2>Macchine</def2>
+        <def3>Avaro</def3>
+        <def4>Marino</def4>
+        <def5>Metro</def5>
+        <sol>Parco</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>95</id>
+        <data>1171407600</data>
+        <def1>Molla</def1>
+        <def2>Tutto</def2>
+        <def3>Barca</def3>
+        <def4>Locale</def4>
+        <def5>Cavalli</def5>
+        <sol>Motore</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>96</id>
+        <data>1136674800</data>
+        <def1>Pianta</def1>
+        <def2>Fantasma</def2>
+        <def3>Alta</def3>
+        <def4>Topo</def4>
+        <def5>Castello</def5>
+        <sol>Città</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>97</id>
+        <data>1172098800</data>
+        <def1>albero</def1>
+        <def2>olio</def2>
+        <def3>contatto</def3>
+        <def4>ancona</def4>
+        <def5>radio</def5>
+        <sol>gomito</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>98</id>
+        <data>1172012400</data>
+        <def1>Latte</def1>
+        <def2>Barba</def2>
+        <def3>Salvare</def3>
+        <def4>Fiocco di neve</def4>
+        <def5>Ignorante</def5>
+        <sol>Capra</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>99</id>
+        <data>1172185200</data>
+        <def1>Spade</def1>
+        <def2>Volante</def2>
+        <def3>Batman</def3>
+        <def4>Manica</def4>
+        <def5>Piantare</def5>
+        <sol>Asso</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>100</id>
+        <data>1172271600</data>
+        <def1>Seconda</def1>
+        <def2>Aceto</def2>
+        <def3>Lingua</def3>
+        <def4>Regina</def4>
+        <def5>Scena</def5>
+        <sol>Madre</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>101</id>
+        <data>1172444400</data>
+        <def1>Stagno</def1>
+        <def2>Mano</def2>
+        <def3>Cane</def3>
+        <def4>Leva</def4>
+        <def5>Capelli</def5>
+        <sol>Ferma</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>102</id>
+        <data>1172530800</data>
+        <def1>Occhi</def1>
+        <def2>Muratore</def2>
+        <def3>Legno</def3>
+        <def4>Grassa</def4>
+        <def5>Elezioni</def5>
+        <sol>Matita</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>103</id>
+        <data>1172617200</data>
+        <def1>Testa</def1>
+        <def2>Muro</def2>
+        <def3>Maiale</def3>
+        <def4>Pelle</def4>
+        <def5>Stringere</def5>
+        <sol>Cinta</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>104</id>
+        <data>1170284400</data>
+        <def1>Fermo</def1>
+        <def2>Barba</def2>
+        <def3>Fondazione</def3>
+        <def4>Furto</def4>
+        <def5>Tensione</def5>
+        <sol>Palo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>105</id>
+        <data>1172790000</data>
+        <def1>Mantagna</def1>
+        <def2>Tiro</def2>
+        <def3>Sera</def3>
+        <def4>Spirito</def4>
+        <def5>Festa</def5>
+        <sol>Campanile</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>106</id>
+        <data>1172876400</data>
+        <def1>Oro</def1>
+        <def2>Scrivere</def2>
+        <def3>Domani</def3>
+        <def4>Nato</def4>
+        <def5>Latte</def5>
+        <sol>Gallina</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>107</id>
+        <data>1173049200</data>
+        <def1>Stomaco</def1>
+        <def2>Montagna</def2>
+        <def3>Orologio</def3>
+        <def4>Vetro</def4>
+        <def5>Nuda</def5>
+        <sol>Parete</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>109</id>
+        <data>1173222000</data>
+        <def1>Giovani</def1>
+        <def2>Goal</def2>
+        <def3>Orologio</def3>
+        <def4>Lavoro</def4>
+        <def5>Amore</def5>
+        <sol>Manuale</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>110</id>
+        <data>1173135600</data>
+        <def1>Verde</def1>
+        <def2>Nave</def2>
+        <def3>Gioco</def3>
+        <def4>Pomodoro</def4>
+        <def5>Collo</def5>
+        <sol>Bottiglia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>111</id>
+        <data>1173308400</data>
+        <def1>Freccia</def1>
+        <def2>Dramma</def2>
+        <def3>Conti</def3>
+        <def4>Elemento</def4>
+        <def5>Giornale</def5>
+        <sol>Radio</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>112</id>
+        <data>1173394800</data>
+        <def1>Tango</def1>
+        <def2>Testa</def2>
+        <def3>Pavone</def3>
+        <def4>Verne</def4>
+        <def5>Oro</def5>
+        <sol>Pallone</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>113</id>
+        <data>1173481200</data>
+        <def1>Lotteria</def1>
+        <def2>Ragazze</def2>
+        <def3>A</def3>
+        <def4>Telefilm</def4>
+        <def5>Fuori</def5>
+        <sol>Serie</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>114</id>
+        <data>1173740400</data>
+        <def1>Ritmo</def1>
+        <def2>Centro</def2>
+        <def3>Uovo</def3>
+        <def4>Tempo</def4>
+        <def5>Orlo</def5>
+        <sol>Pieno</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>115</id>
+        <data>1173654000</data>
+        <def1>Capo</def1>
+        <def2>Pistola</def2>
+        <def3>Benzina</def3>
+        <def4>Sicurezza</def4>
+        <def5>Botte</def5>
+        <sol>Spillo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>116</id>
+        <data>1173826800</data>
+        <def1>Camera</def1>
+        <def2>Cervo</def2>
+        <def3>Lago</def3>
+        <def4>Vita</def4>
+        <def5>Corallo</def5>
+        <sol>Ramo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>117</id>
+        <data>1173913200</data>
+        <def1>Spirito</def1>
+        <def2>Alcool</def2>
+        <def3>Naso</def3>
+        <def4>Bocca</def4>
+        <def5>Terra</def5>
+        <sol>Patata</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>118</id>
+        <data>1173999600</data>
+        <def1>Visita</def1>
+        <def2>Buio</def2>
+        <def3>Cascata</def3>
+        <def4>Gioia</def4>
+        <def5>Lungo</def5>
+        <sol>Salto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>119</id>
+        <data>1174086000</data>
+        <def1>Corona</def1>
+        <def2>Montagna</def2>
+        <def3>Cardinale</def3>
+        <def4>Leone</def4>
+        <def5>Fame</def5>
+        <sol>Dente</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>120</id>
+        <data>1174258800</data>
+        <def1>Figlio</def1>
+        <def2>Secondo</def2>
+        <def3>Florida</def3>
+        <def4>Noce</def4>
+        <def5>Debole</def5>
+        <sol>Carne</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>121</id>
+        <data>1174345200</data>
+        <def1>Allegria</def1>
+        <def2>Ufficiale</def2>
+        <def3>Suono</def3>
+        <def4>Bene</def4>
+        <def5>Prendere</def5>
+        <sol>Nota</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>122</id>
+        <data>1174431600</data>
+        <def1>Lana</def1>
+        <def2>Palla</def2>
+        <def3>Diamante</def3>
+        <def4>Arte</def4>
+        <def5>Onu</def5>
+        <sol>Vetro</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>123</id>
+        <data>1174604400</data>
+        <def1>Caldo</def1>
+        <def2>Fischio</def2>
+        <def3>Giacca</def3>
+        <def4>Via</def4>
+        <def5>Parlare</def5>
+        <sol>Vento</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>124</id>
+        <data>1174860000</data>
+        <def1>Bianco</def1>
+        <def2>Cina</def2>
+        <def3>Lungo</def3>
+        <def4>Fifa</def4>
+        <def5>Dente</def5>
+        <sol>Spaghetto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>125</id>
+        <data>1174690800</data>
+        <def1>Uomo</def1>
+        <def2>Naturale</def2>
+        <def3>Fiori</def3>
+        <def4>Secondo</def4>
+        <def5>Vento</def5>
+        <sol>Figlio</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>126</id>
+        <data>1174946400</data>
+        <def1>No</def1>
+        <def2>Muro</def2>
+        <def3>Colpo</def3>
+        <def4>Tirare</def4>
+        <def5>Restare</def5>
+        <sol>Secco</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>127</id>
+        <data>1175032800</data>
+        <def1>Vino</def1>
+        <def2>Pluto</def2>
+        <def3>Disco</def3>
+        <def4>Vita</def4>
+        <def5>Gladiatore</def5>
+        <sol>Inferno</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>128</id>
+        <data>1175292000</data>
+        <def1>morire</def1>
+        <def2>mal</def2>
+        <def3>giudizio</def3>
+        <def4>colpa</def4>
+        <def5>laurea</def5>
+        <sol>causa</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>129</id>
+        <data>1175205600</data>
+        <def1>penne</def1>
+        <def2>spinta</def2>
+        <def3>flipper</def3>
+        <def4>lascia</def4>
+        <def5>pinza</def5>
+        <sol>molla</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>130</id>
+        <data>1175551200</data>
+        <def1>Storia</def1>
+        <def2>Guerra</def2>
+        <def3>Mio</def3>
+        <def4>Freccia</def4>
+        <def5>Lettera</def5>
+        <sol>Amore</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>131</id>
+        <data>1175464800</data>
+        <def1>Trucco</def1>
+        <def2>Colpo</def2>
+        <def3>Barba</def3>
+        <def4>Calza</def4>
+        <def5>Coda</def5>
+        <sol>Pennello</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>132</id>
+        <data>1176069600</data>
+        <def1>sciocco</def1>
+        <def2>dolce</def2>
+        <def3>spiffero</def3>
+        <def4>milano</def4>
+        <def5>pane</def5>
+        <sol>salame</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>133</id>
+        <data>1176156000</data>
+        <def1>discorso</def1>
+        <def2>D'Annunzio</def2>
+        <def3>rosso</def3>
+        <def4>gente</def4>
+        <def5>lava</def5>
+        <sol>fiume</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>134</id>
+        <data>1176242400</data>
+        <def1>uomo</def1>
+        <def2>occhio</def2>
+        <def3>carta</def3>
+        <def4>neve</def4>
+        <def5>contro</def5>
+        <sol>tigre</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>135</id>
+        <data>1176501600</data>
+        <def1>delicato</def1>
+        <def2>tocco</def2>
+        <def3>insistere</def3>
+        <def4>citofono</def4>
+        <def5>lettera</def5>
+        <sol>tasto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>136</id>
+        <data>1176760800</data>
+        <def1>Mosca</def1>
+        <def2>Americano</def2>
+        <def3>Furia</def3>
+        <def4>Concerto</def4>
+        <def5>Pianta</def5>
+        <sol>Caffè</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>137</id>
+        <data>1176847200</data>
+        <def1>Montagna</def1>
+        <def2>Abbassare</def2>
+        <def3>Elmo</def3>
+        <def4>Onda</def4>
+        <def5>Spesa</def5>
+        <sol>Cresta</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>138</id>
+        <data>1177020000</data>
+        <def1>Marito</def1>
+        <def2>Carta</def2>
+        <def3>Berlino</def3>
+        <def4>Dito</def4>
+        <def5>Zero</def5>
+        <sol>Cielo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>139</id>
+        <data>1177106400</data>
+        <def1>Solco</def1>
+        <def2>Lasciare</def2>
+        <def3>Schizzo</def3>
+        <def4>Sotto</def4>
+        <def5>CD</def5>
+        <sol>Traccia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>140</id>
+        <data>1177279200</data>
+        <def1>Pote</def1>
+        <def2>Invisibile</def2>
+        <def3>Pubblico</def3>
+        <def4>Giurato</def4>
+        <def5>Fuoco</def5>
+        <sol>Nemico</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>141</id>
+        <data>1177538400</data>
+        <def1>Grassa</def1>
+        <def2>Piccola</def2>
+        <def3>Legno</def3>
+        <def4>Ferro</def4>
+        <def5>Colpo</def5>
+        <sol>Botte</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>142</id>
+        <data>1177365600</data>
+        <def1>Titolo</def1>
+        <def2>Mio</def2>
+        <def3>Amore</def3>
+        <def4>Amico</def4>
+        <def5>Corona</def5>
+        <sol>Tesoro</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>143</id>
+        <data>1177624800</data>
+        <def1>Fonte</def1>
+        <def2>Umano</def2>
+        <def3>Salutare</def3>
+        <def4>Colpo</def4>
+        <def5>Pulito</def5>
+        <sol>Calore</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>144</id>
+        <data>1177711200</data>
+        <def1>Pinguino</def1>
+        <def2>Fuoco</def2>
+        <def3>Paolo</def3>
+        <def4>Kiwi</def4>
+        <def5>Paradiso</def5>
+        <sol>Uccello</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>145</id>
+        <data>1177970400</data>
+        <def1>A</def1>
+        <def2>Buona</def2>
+        <def3>Colori</def3>
+        <def4>Neve</def4>
+        <def5>Fredda</def5>
+        <sol>Tavola</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>146</id>
+        <data>1178056800</data>
+        <def1>latte</def1>
+        <def2>sole</def2>
+        <def3>minore</def3>
+        <def4>grande</def4>
+        <def5>remo</def5>
+        <sol>fratello</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>147</id>
+        <data>1178143200</data>
+        <def1>Macchia</def1>
+        <def2>Bambola</def2>
+        <def3>Piedi</def3>
+        <def4>Appoggio</def4>
+        <def5>Mettere</def5>
+        <sol>Pezza</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>148</id>
+        <data>1178488800</data>
+        <def1>campo</def1>
+        <def2>grano</def2>
+        <def3>cavallo</def3>
+        <def4>arance</def4>
+        <def5>legale</def5>
+        <sol>battaglia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>149</id>
+        <data>1178575200</data>
+        <def1>moto</def1>
+        <def2>forza</def2>
+        <def3>livello</def3>
+        <def4>vecchio</def4>
+        <def5>nero</def5>
+        <sol>mare</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>150</id>
+        <data>1178748000</data>
+        <def1>Pepe</def1>
+        <def2>Duro</def2>
+        <def3>Moneta</def3>
+        <def4>Campo</def4>
+        <def5>Melo</def5>
+        <sol>Grano</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>151</id>
+        <data>1178661600</data>
+        <def1>Fate</def1>
+        <def2>Consumo</def2>
+        <def3>Giovani</def3>
+        <def4>Girare</def4>
+        <def5>Raggio</def5>
+        <sol>Largo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>152</id>
+        <data>1179093600</data>
+        <def1>Pasqua</def1>
+        <def2>Pace</def2>
+        <def3>Giglio</def3>
+        <def4>Napoleone</def4>
+        <def5>Pedonale</def5>
+        <sol>Isola</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>153</id>
+        <data>1179180000</data>
+        <def1>Folla</def1>
+        <def2>Maria</def2>
+        <def3>Sole</def3>
+        <def4>Turco</def4>
+        <def5>Umiltà</def5>
+        <sol>Bagno</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>154</id>
+        <data>1178920800</data>
+        <def1>tiro</def1>
+        <def2>vela</def2>
+        <def3>caduta</def3>
+        <def4>capire</def4>
+        <def5>piano</def5>
+        <sol>volo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>155</id>
+        <data>1178834400</data>
+        <def1>Montagna</def1>
+        <def2>Tenda</def2>
+        <def3>Scettro</def3>
+        <def4>Carota</def4>
+        <def5>Golf</def5>
+        <sol>Bastone</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>156</id>
+        <data>1179266400</data>
+        <def1>Ruga</def1>
+        <def2>Brutta</def2>
+        <def3>Ciglia</def3>
+        <def4>Messa</def4>
+        <def5>Pantaloni</def5>
+        <sol>Piega</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>157</id>
+        <data>1179352800</data>
+        <def1>Nave</def1>
+        <def2>Bandiera</def2>
+        <def3>Carne</def3>
+        <def4>Casa</def4>
+        <def5>Settimana</def5>
+        <sol>Bianca</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>158</id>
+        <data>1179439200</data>
+        <def1>Rotta</def1>
+        <def2>Direttore</def2>
+        <def3>Seme</def3>
+        <def4>Italia</def4>
+        <def5>Dati</def5>
+        <sol>Banca</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>159</id>
+        <data>1179525600</data>
+        <def1>Sala</def1>
+        <def2>Paura</def2>
+        <def3>Secolo</def3>
+        <def4>Pesto</def4>
+        <def5>Salto</def5>
+        <sol>Buio</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>160</id>
+        <data>1179698400</data>
+        <def1>Pigna</def1>
+        <def2>Vulcano</def2>
+        <def3>Tronco</def3>
+        <def4>Cappello</def4>
+        <def5>Luce</def5>
+        <sol>Cono</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>161</id>
+        <data>1179784800</data>
+        <def1>Buonanotte</def1>
+        <def2>Matrimonio</def2>
+        <def3>Racconto</def3>
+        <def4>Paese</def4>
+        <def5>Morale</def5>
+        <sol>Favola</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>162</id>
+        <data>1179871200</data>
+        <def1>Porta</def1>
+        <def2>Ferrara</def2>
+        <def3>Via</def3>
+        <def4>Rosa</def4>
+        <def5>Disegno</def5>
+        <sol>Foglio</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>163</id>
+        <data>1179957600</data>
+        <def1>Sole</def1>
+        <def2>Mani</def2>
+        <def3>Lavoro</def3>
+        <def4>Avanti</def4>
+        <def5>Polizia</def5>
+        <sol>Posto</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>164</id>
+        <data>1180044000</data>
+        <def1>Amore</def1>
+        <def2>Spirito</def2>
+        <def3>Tempo</def3>
+        <def4>Taxi</def4>
+        <def5>Canto</def5>
+        <sol>Libero</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>165</id>
+        <data>1180130400</data>
+        <def1>Sabato</def1>
+        <def2>Fuori</def2>
+        <def3>Quarto</def3>
+        <def4>Critica</def4>
+        <def5>Finale</def5>
+        <sol>Fase</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>166</id>
+        <data>1180303200</data>
+        <def1>Vincere</def1>
+        <def2>Niente</def2>
+        <def3>Brutto</def3>
+        <def4>Morire</def4>
+        <def5>Volare</def5>
+        <sol>Paura</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>167</id>
+        <data>1180389600</data>
+        <def1>Anello</def1>
+        <def2>Cortina</def2>
+        <def3>Vendere</def3>
+        <def4>Filo</def4>
+        <def5>Occhi</def5>
+        <sol>Fumo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>168</id>
+        <data>1180562400</data>
+        <def1>Petto</def1>
+        <def2>Deserto</def2>
+        <def3>Verbo</def3>
+        <def4>Gira</def4>
+        <def5>Popolo</def5>
+        <sol>Voce</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>169</id>
+        <data>1180476000</data>
+        <def1>Olio</def1>
+        <def2>Fare</def2>
+        <def3>Aereo</def3>
+        <def4>Cantare</def4>
+        <def5>Maria</def5>
+        <sol>spia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>170</id>
+        <data>1180908000</data>
+        <def1>Pane</def1>
+        <def2>Gioco</def2>
+        <def3>Testa</def3>
+        <def4>Osso</def4>
+        <def5>Zoccolo</def5>
+        <sol>Duro</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>171</id>
+        <data>1180648800</data>
+        <def1>Denaro</def1>
+        <def2>Ospite</def2>
+        <def3>Naso</def3>
+        <def4>Fritto</def4>
+        <def5>Bruciato</def5>
+        <sol>Puzza</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>172</id>
+        <data>1180994400</data>
+        <def1>Pelle</def1>
+        <def2>Olio</def2>
+        <def3>Cavaliere</def3>
+        <def4>Scappare</def4>
+        <def5>Bosco</def5>
+        <sol>Macchia</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>173</id>
+        <data>1181080800</data>
+        <def1>Leone</def1>
+        <def2>Occhio</def2>
+        <def3>Mettere</def3>
+        <def4>Spirito</def4>
+        <def5>Mondo</def5>
+        <sol>Parte</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>174</id>
+        <data>1181167200</data>
+        <def1>Anima</def1>
+        <def2>Sport</def2>
+        <def3>Ufficiale</def3>
+        <def4>Esame</def4>
+        <def5>Centro</def5>
+        <sol>Medico</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>175</id>
+        <data>1181512800</data>
+        <def1>Governo</def1>
+        <def2>Tornare</def2>
+        <def3>Energia</def3>
+        <def4>Salve</def4>
+        <def5>Sotto</def5>
+        <sol>Carica</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>176</id>
+        <data>1181599200</data>
+        <def1>vino</def1>
+        <def2>medio</def2>
+        <def3>cielo</def3>
+        <def4>occhio</def4>
+        <def5>piaga</def5>
+        <sol>dito</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>177</id>
+        <data>1181685600</data>
+        <def1>testa</def1>
+        <def2>ballo</def2>
+        <def3>foto</def3>
+        <def4>lavoro</def4>
+        <def5>A</def5>
+        <sol>gruppo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>178</id>
+        <data>1181772000</data>
+        <def1>Fondo</def1>
+        <def2>Nero</def2>
+        <def3>Luna</def3>
+        <def4>Scarti</def4>
+        <def5>Scienza</def5>
+        <sol>Pozzo</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>179</id>
+        <data>1181858400</data>
+        <def1>Luogo</def1>
+        <def2>Fuoco</def2>
+        <def3>Amore</def3>
+        <def4>Osso</def4>
+        <def5>Romano</def5>
+        <sol>Sacro</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>180</id>
+        <data>1181944800</data>
+        <def1>Amore</def1>
+        <def2>Grazie</def2>
+        <def3>Roma</def3>
+        <def4>Ollio</def4>
+        <def5>Saluto</def5>
+        <sol>Arrivederci</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>181</id>
+        <data>1182290400</data>
+        <def1>porco</def1>
+        <def2>collo</def2>
+        <def3>libero</def3>
+        <def4>punta</def4>
+        <def5>staffa</def5>
+        <sol>piede</sol>
+        <tipo>INT</tipo>
+        <descr>piede di porco&lt;br&gt;collo del piede&lt;br&gt;a piede libero&lt;br&gt;punta del piede&lt;br&gt;il piede s appoggia sulla staffa</descr>
+    </gioco>
+    <gioco>
+        <id>182</id>
+        <data>1182636000</data>
+        <def1>fuoco</def1>
+        <def2>pilastri</def2>
+        <def3>piedi</def3>
+        <def4>giù</def4>
+        <def5>madre</def5>
+        <sol>terra</sol>
+        <tipo>INT</tipo>
+        <descr>Terra del fuoco&lt;br&gt;Pilastri della terra &lt;br&gt; stare coi piedi per terra &lt;br&gt;tutti giu` per terra&lt;br&gt; madre terra&lt;br&gt;</descr>
+    </gioco>
+    <gioco>
+        <id>183</id>
+        <data>1182636000</data>
+        <def1>legno</def1>
+        <def2>forte</def2>
+        <def3>continua</def3>
+        <def4>malattia</def4>
+        <def5>veloce</def5>
+        <sol>cassa</sol>
+        <tipo>INT</tipo>
+        <descr>cassa di legno&lt;br&gt;cassaforte&lt;br&gt;cassa continua&lt;br&gt;cassa malattia&lt;br&gt;cassa veloce</descr>
+    </gioco>
+    <gioco>
+        <id>184</id>
+        <data>1182636000</data>
+        <def1>gola</def1>
+        <def2>tirare</def2>
+        <def3>foglia</def3>
+        <def4>carne</def4>
+        <def5>magra</def5>
+        <sol>secca</sol>
+        <tipo>INT</tipo>
+        <descr>gola secca&lt;br&gt;tirare in secca&lt;br&gt;foglia secca&lt;br&gt;carne secca&lt;br&gt;magra sinonimo di secca</descr>
+    </gioco>
+    <gioco>
+        <id>185</id>
+        <data>1182636000</data>
+        <def1>paola</def1>
+        <def2>canzone</def2>
+        <def3>ricambio</def3>
+        <def4>novanta</def4>
+        <def5>articolo</def5>
+        <sol>pezzo</sol>
+        <tipo>INT</tipo>
+        <descr>Paola Pezzo, campionessa olimpica di Mountain bike&lt;br&gt;una canzone e` un pezzo&lt;br&gt;pezzo di ricambio&lt;br&gt;pezzo da novanta&lt;br&gt;un articolo giornalistico si dice pezzo</descr>
+    </gioco>
+    <gioco>
+        <id>186</id>
+        <data>1142895600</data>
+        <def1>passato</def1>
+        <def2>bianco</def2>
+        <def3>aristocrazia</def3>
+        <def4>roberto</def4>
+        <def5>scarpe</def5>
+        <sol>crema</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>187</id>
+        <data>1182895200</data>
+        <def1>lenta</def1>
+        <def2>zeus</def2>
+        <def3>leonardo</def3>
+        <def4>achille</def4>
+        <def5>lampedusa</def5>
+        <sol>tartaruga</sol>
+        <tipo>INT</tipo>
+        <descr>la tartura è lenta&lt;br&gt;
+da Esopo: La tartaruga disse a Zeus: &quot;Voglio una casa tutta per me, in modo che vi possa entrare solo chi dico io!&quot;. Zeus rispose: &quot;Avrai una casa tutta tua, ma ci potrai entrare solo tu!&quot;&lt;br&gt;
+Leonardo è la una delle tartarughe ninja&lt;br&gt;
+Achille e la Tartaruga, è il dilemma di un certo Zenone, riguarda il concetto di infitesimo&lt;br&gt;
+lampedusa è famosa per le sue tarturughe marine</descr>
+    </gioco>
+    <gioco>
+        <id>188</id>
+        <data>1183327200</data>
+        <def1>verde</def1>
+        <def2>comunale</def2>
+        <def3>avaro</def3>
+        <def4>giochi</def4>
+        <def5>macchine</def5>
+        <sol>parco</sol>
+        <tipo>INT</tipo>
+        <descr>parco verde&lt;br&gt;
+parco comunale&lt;br&gt;
+parco è sinonimo di avaro&lt;br&gt;
+parco giochi&lt;br&gt;
+parco macchine&lt;br&gt;</descr>
+    </gioco>
+    <gioco>
+        <id>189</id>
+        <data>1183327200</data>
+        <def1>vita</def1>
+        <def2>lì</def2>
+        <def3>sale</def3>
+        <def4>seggio</def4>
+        <def5>pan</def5>
+        <sol>via</sol>
+        <tipo>INT</tipo>
+        <descr>proverbio latino: via es vita&lt;br&gt;
+via da lì&lt;br&gt;
+via del sale&lt;br&gt;
+seggiovia&lt;br&gt;
+pan di via, dal film il signore degli anelli&lt;br&gt;</descr>
+    </gioco>
+    <gioco>
+        <id>190</id>
+        <data>1183327200</data>
+        <def1>fare</def1>
+        <def2>luce</def2>
+        <def3>porto</def3>
+        <def4>sostegno</def4>
+        <def5>tiro</def5>
+        <sol>palo</sol>
+        <tipo>INT</tipo>
+        <descr>fare il palo&lt;br&gt;
+palo della luce&lt;br&gt;
+porto palo di capo passero (SR)&lt;br&gt;
+palo di sostegno&lt;br&gt;
+tirooooo...palo!&lt;br&gt;</descr>
+    </gioco>
+    <gioco>
+        <id>191</id>
+        <data>1183327200</data>
+        <def1>largo</def1>
+        <def2>X</def2>
+        <def3>onda</def3>
+        <def4>luce</def4>
+        <def5>ruota</def5>
+        <sol>raggio</sol>
+        <tipo>INT</tipo>
+        <descr>a largo raggio&lt;br&gt;
+raggio X&lt;br&gt;
+in ottica il raggio è la propagazione rettilinea di un onda&lt;br&gt;
+raggio di luce&lt;br&gt;
+il raggio della ruota&lt;br&gt;</descr>
+    </gioco>
+    <gioco>
+        <id>192</id>
+        <data>1183845600</data>
+        <def1>scivolo</def1>
+        <def2>mezza</def2>
+        <def3>minima</def3>
+        <def4>andare</def4>
+        <def5>guerra</def5>
+        <sol>pensione</sol>
+        <tipo>INT</tipo>
+        <descr>si dice scivolo quando una lavoratore va in pensione prima del tempo&lt;br&gt;
+mezza pensione (hotel)&lt;br&gt;
+pensione minima&lt;br&gt;
+andare in pensione&lt;br&gt;
+pensione di guerra</descr>
+    </gioco>
+    <gioco>
+        <id>193</id>
+        <data>1183845600</data>
+        <def1>canna</def1>
+        <def2>vita</def2>
+        <def3>maggiore</def3>
+        <def4>pistola</def4>
+        <def5>amico</def5>
+        <sol>cane</sol>
+        <tipo>INT</tipo>
+        <descr>canna in inglese si dice cane&lt;br&gt;
+vita da cena&lt;br&gt;
+cane maggiore è una costellazione&lt;br&gt;
+cane della pistola&lt;br&gt;
+il cane è il miglior amico dell uomo</descr>
+    </gioco>
+    <gioco>
+        <id>194</id>
+        <data>1183845600</data>
+        <def1>venezia</def1>
+        <def2>vita</def2>
+        <def3>fiera</def3>
+        <def4>fiori</def4>
+        <def5>orecchie</def5>
+        <sol>mercante</sol>
+        <tipo>INT</tipo>
+        <descr>il mercante di venezia&lt;br&gt;
+vita da mercante&lt;br&gt;
+mercante in fiera&lt;br&gt;
+il mercante di fiori è un libro di Diego Cugia&lt;br&gt;
+fare orecchie da mercante</descr>
+    </gioco>
+    <gioco>
+        <id>195</id>
+        <data>1183845600</data>
+        <def1>armadio</def1>
+        <def2>vecchio</def2>
+        <def3>vacanza</def3>
+        <def4>lucchetti</def4>
+        <def5>mobile</def5>
+        <sol>ponte</sol>
+        <tipo>INT</tipo>
+        <descr>armadio a ponte&lt;br&gt;
+ponte vecchio a Firenze&lt;br&gt;
+fare ponte quando si va in vacanza&lt;br&gt;
+nel ponte vecchio a Firenze gli innamorati mettono dei lucchetti&lt;br&gt;
+ponte mobile</descr>
+    </gioco>
+    <gioco>
+        <id>196</id>
+        <data>1183845600</data>
+        <def1>montagna</def1>
+        <def2>buttarsi</def2>
+        <def3>ascolto</def3>
+        <def4>massimo</def4>
+        <def5>curva</def5>
+        <sol>picco</sol>
+        <tipo>INT</tipo>
+        <descr>picco della montagna&lt;br&gt;
+buttarsi giù da un picco&lt;br&gt;
+picco di ascolto&lt;br&gt;
+picco massimo&lt;br&gt;
+il picco di una curva</descr>
+    </gioco>
+    <gioco>
+        <id>197</id>
+        <data>1184536800</data>
+        <def1>grosso</def1>
+        <def2>insalata</def2>
+        <def3>dentro</def3>
+        <def4>rotonda</def4>
+        <def5>giallo</def5>
+        <sol>mare</sol>
+        <tipo>INT</tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>198</id>
+        <data>1184536800</data>
+        <def1>svizzera</def1>
+        <def2>monaco</def2>
+        <def3>cinema</def3>
+        <def4>cerchio</def4>
+        <def5>parco</def5>
+        <sol>paradiso</sol>
+        <tipo>INT</tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>199</id>
+        <data>1184536800</data>
+        <def1>fare</def1>
+        <def2>stagione</def2>
+        <def3>orologio</def3>
+        <def4>cinese</def4>
+        <def5>segnare</def5>
+        <sol>calendario</sol>
+        <tipo>INT</tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>200</id>
+        <data>1184536800</data>
+        <def1>mare</def1>
+        <def2>servizio</def2>
+        <def3>facile</def3>
+        <def4>salute</def4>
+        <def5>staffa</def5>
+        <sol>bicchiere</sol>
+        <tipo>INT</tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>201</id>
+        <data>1184536800</data>
+        <def1>gonna</def1>
+        <def2>nazionale</def2>
+        <def3>carro</def3>
+        <def4>tenere</def4>
+        <def5>libera</def5>
+        <sol>ruota</sol>
+        <tipo>INT</tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>202</id>
+        <data>1185228000</data>
+        <def1>blocco</def1>
+        <def2>ferrari</def2>
+        <def3>cultura</def3>
+        <def4>critica</def4>
+        <def5>partito</def5>
+        <sol>massa</sol>
+        <tipo>INT</tipo>
+        <descr>la massa è un blocco&lt;br&gt;
+massa pilota della ferrari&lt;br&gt;
+cultura di massa&lt;br&gt;
+massa critica&lt;br&gt;
+partito di massa</descr>
+    </gioco>
+    <gioco>
+        <id>203</id>
+        <data>1185141600</data>
+        <def1>trombetta</def1>
+        <def2>carne</def2>
+        <def3>rosso</def3>
+        <def4>muto</def4>
+        <def5>bandiera</def5>
+        <sol>pesce</sol>
+        <tipo>INT</tipo>
+        <descr>pesce trombetta&lt;br&gt;
+carne o pesce&lt;br&gt;
+pesce rosso&lt;br&gt;
+muto come un pesce&lt;br&gt;
+pesce bandiera</descr>
+    </gioco>
+    <gioco>
+        <id>204</id>
+        <data>1185141600</data>
+        <def1>passare</def1>
+        <def2>limite</def2>
+        <def3>avanti</def3>
+        <def4>tutto</def4>
+        <def5>mare</def5>
+        <sol>oltre</sol>
+        <tipo>INT</tipo>
+        <descr>passare oltre&lt;br&gt;
+oltre ogni limite&lt;br&gt;
+avanti, andare oltre&lt;br&gt;
+oltretutto&lt;br&gt;
+oltre mare</descr>
+    </gioco>
+    <gioco>
+        <id>205</id>
+        <data>1185141600</data>
+        <def1>bel</def1>
+        <def2>che</def2>
+        <def3>comune</def3>
+        <def4>famiglia</def4>
+        <def5>stereo</def5>
+        <sol>tipo</sol>
+        <tipo>INT</tipo>
+        <descr>un bel tipo&lt;br&gt;
+che tipo!&lt;br&gt;
+tipo comune&lt;br&gt;
+famiglia comune&lt;br&gt;
+stereotipo</descr>
+    </gioco>
+    <gioco>
+        <id>206</id>
+        <data>1185141600</data>
+        <def1>sangue</def1>
+        <def2>tagliare</def2>
+        <def3>bianco</def3>
+        <def4>autunno</def4>
+        <def5>tavola</def5>
+        <sol>vino</sol>
+        <tipo>INT</tipo>
+        <descr>il vino fa buon sangue&lt;br&gt;
+tagliare il vino, vuol dire muschiare due tipologie&lt;br&gt;
+vino bianco&lt;br&gt;
+la vendemmia si fa in autunno&lt;br&gt;
+vino da tavola</descr>
+    </gioco>
+    <gioco>
+        <id>207</id>
+        <data>1185746400</data>
+        <def1>telefono</def1>
+        <def2>cane</def2>
+        <def3>scrivo</def3>
+        <def4>tesoro</def4>
+        <def5>musica</def5>
+        <sol>amico</sol>
+        <tipo>INT</tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>208</id>
+        <data>1185746400</data>
+        <def1>sacro</def1>
+        <def2>pettine</def2>
+        <def3>molla</def3>
+        <def4>buco</def4>
+        <def5>duro</def5>
+        <sol>osso</sol>
+        <tipo>INT</tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>209</id>
+        <data>1185746400</data>
+        <def1>amico</def1>
+        <def2>rosso</def2>
+        <def3>lente</def3>
+        <def4>cintura</def4>
+        <def5>terra</def5>
+        <sol>fuoco</sol>
+        <tipo>INT</tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>210</id>
+        <data>1185746400</data>
+        <def1>forza</def1>
+        <def2>cercare</def2>
+        <def3>duro</def3>
+        <def4>casa</def4>
+        <def5>rapporto</def5>
+        <sol>lavoro</sol>
+        <tipo>INT</tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>211</id>
+        <data>1185746400</data>
+        <def1>nero</def1>
+        <def2>nudo</def2>
+        <def3>croce</def3>
+        <def4>contorno</def4>
+        <def5>terzo</def5>
+        <sol>occhio</sol>
+        <tipo>INT</tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>212</id>
+        <data>1185746400</data>
+        <def1>grosso</def1>
+        <def2>cerchio</def2>
+        <def3>parco</def3>
+        <def4>rotonda</def4>
+        <def5>mare</def5>
+        <sol>lento</sol>
+        <tipo>INT</tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>213</id>
+        <data>1188770400</data>
+        <def1>cosa</def1>
+        <def2>testa</def2>
+        <def3>segreto</def3>
+        <def4>impresa</def4>
+        <def5>grande</def5>
+        <sol>successo</sol>
+        <tipo></tipo>
+        <descr>cosa è successo
+il successo da alla testa
+segreto del successo
+impresa di successo
+grande successo</descr>
+    </gioco>
+    <gioco>
+        <id>214</id>
+        <data>1188856800</data>
+        <def1>dolce</def1>
+        <def2>male</def2>
+        <def3>paura</def3>
+        <def4>personale</def4>
+        <def5>finta</def5>
+        <sol>niente</sol>
+        <tipo></tipo>
+        <descr>dolce far niente
+niente male
+niente paura
+niente di personale
+far finta di niente</descr>
+    </gioco>
+    <gioco>
+        <id>215</id>
+        <data>1189029600</data>
+        <def1>capanna</def1>
+        <def2>spesa</def2>
+        <def3>coppi</def3>
+        <def4>mondo</def4>
+        <def5>senza</def5>
+        <sol>tetto</sol>
+        <tipo></tipo>
+        <descr>tetto a capanna
+tetto di spesa
+i coppi sono delle tegole che vanno sul tetto
+tetto del mondo
+senza tetto</descr>
+    </gioco>
+    <gioco>
+        <id>216</id>
+        <data>1189375200</data>
+        <def1>industria</def1>
+        <def2>canzone</def2>
+        <def3>squadra</def3>
+        <def4>porto</def4>
+        <def5>ultimo</def5>
+        <sol>capitano</sol>
+        <tipo></tipo>
+        <descr>capitano d&amp;apos; industria</descr>
+    </gioco>
+    <gioco>
+        <id>217</id>
+        <data>1189461600</data>
+        <def1>famiglia</def1>
+        <def2>cadere</def2>
+        <def3>forma</def3>
+        <def4>città</def4>
+        <def5>capitale</def5>
+        <sol>vizio</sol>
+        <tipo></tipo>
+        <descr>vizio di famiglia
+cadere nel vizio
+vizio di forma
+città del vizio
+vizio capitale</descr>
+    </gioco>
+    <gioco>
+        <id>218</id>
+        <data>1189548000</data>
+        <def1>mondo</def1>
+        <def2>testo</def2>
+        <def3>numero</def3>
+        <def4>partito</def4>
+        <def5>senso</def5>
+        <sol>unico</sol>
+        <tipo></tipo>
+        <descr>unico al mondo
+testo unico
+numero unico di una rivista
+partito unico
+strada a senso unico</descr>
+    </gioco>
+    <gioco>
+        <id>219</id>
+        <data>1189202400</data>
+        <def1>unità</def1>
+        <def2>area</def2>
+        <def3>pianto</def3>
+        <def4>cinema</def4>
+        <def5>buio</def5>
+        <sol>crisi</sol>
+        <tipo></tipo>
+        <descr>unità di crisi
+area di crisi
+crisi di pianto
+crisi del cinema
+crisi (di governo) al buio</descr>
+    </gioco>
+    <gioco>
+        <id>220</id>
+        <data>1189807200</data>
+        <def1>mento</def1>
+        <def2>fortuna</def2>
+        <def3>sapone</def3>
+        <def4>voce</def4>
+        <def5>lampada</def5>
+        <sol>porta</sol>
+        <tipo></tipo>
+        <descr>portamento
+porta fortuna
+porta sapone
+portavoce
+porta lampada</descr>
+    </gioco>
+    <gioco>
+        <id>221</id>
+        <data>1189720800</data>
+        <def1>caro</def1>
+        <def2>dolce</def2>
+        <def3>re</def3>
+        <def4>borsa</def4>
+        <def5>senatore</def5>
+        <sol>vita</sol>
+        <tipo></tipo>
+        <descr>caro vita
+la dolce vita
+vita da re
+o la borsa o la vita
+senatore a vita</descr>
+    </gioco>
+    <gioco>
+        <id>222</id>
+        <data>1189980000</data>
+        <def1>arte</def1>
+        <def2>oro</def2>
+        <def3>carte</def3>
+        <def4>senza</def4>
+        <def5>volume</def5>
+        <sol>regola</sol>
+        <tipo></tipo>
+        <descr>a regola d arte
+regola d oro
+avere le carte in regola
+senza regola
+regola il volume</descr>
+    </gioco>
+    <gioco>
+        <id>223</id>
+        <data>1190066400</data>
+        <def1>guerra</def1>
+        <def2>dono</def2>
+        <def3>notte</def3>
+        <def4>medico</def4>
+        <def5>europa</def5>
+        <sol>consiglio</sol>
+        <tipo></tipo>
+        <descr>consiglio di guerra
+il consiglio è un dono dello spirito santo
+la notte porta consiglio
+consiglio del medico
+consiglio d europa</descr>
+    </gioco>
+    <gioco>
+        <id>224</id>
+        <data>1190152800</data>
+        <def1>desiderio</def1>
+        <def2>viva</def2>
+        <def3>vecchia</def3>
+        <def4>lingua</def4>
+        <def5>ritorno</def5>
+        <sol>fiamma</sol>
+        <tipo></tipo>
+        <descr>fiamma del desiderio
+fiamma viva
+una vecchia fiamma
+una lingua di fuoco è una fiamma
+ritorno di fiamma</descr>
+    </gioco>
+    <gioco>
+        <id>225</id>
+        <data>1190239200</data>
+        <def1>terra</def1>
+        <def2>mina</def2>
+        <def3>figli</def3>
+        <def4>perfetto</def4>
+        <def5>signor</def5>
+        <sol>nessuno</sol>
+        <tipo></tipo>
+        <descr>terra di nessuno
+nessuno è una canzone di mina
+figli di nessuno
+nessuno è perfetto
+signor nessuno</descr>
+    </gioco>
+    <gioco>
+        <id>226</id>
+        <data>1190325600</data>
+        <def1>numero</def1>
+        <def2>bianco</def2>
+        <def3>cavalli</def3>
+        <def4>festival</def4>
+        <def5>famiglie</def5>
+        <sol>circo</sol>
+        <tipo></tipo>
+        <descr>numero da circo
+circo bianco
+cavalli da circo
+festival del circo
+le famiglie vanno al circo</descr>
+    </gioco>
+    <gioco>
+        <id>227</id>
+        <data>1190412000</data>
+        <def1>vetro</def1>
+        <def2>benzina</def2>
+        <def3>piedi</def3>
+        <def4>cintura</def4>
+        <def5>sigillo</def5>
+        <sol>piombo</sol>
+        <tipo></tipo>
+        <descr>vetro al piombo
+benzina senza piombo
+sigillo di piombo
+cintura del sub col piombo
+andare coi piedi di piombo</descr>
+    </gioco>
+    <gioco>
+        <id>228</id>
+        <data>1190584800</data>
+        <def1>gondola</def1>
+        <def2>tartaruga</def2>
+        <def3>riga</def3>
+        <def4>pesce</def4>
+        <def5>parcheggio</def5>
+        <sol>pettine</sol>
+        <tipo></tipo>
+        <descr>la parte anteriore della gondola ha la forma di un pettine
+i pettini si facevano col guscio della tartaruga
+la riga dei capelli si fa col pettine
+pesce pettine
+parcheggio a pettine</descr>
+    </gioco>
+    <gioco>
+        <id>229</id>
+        <data>1190671200</data>
+        <def1>amore</def1>
+        <def2>nazione</def2>
+        <def3>anonimo</def3>
+        <def4>telefono</def4>
+        <def5>maratona</def5>
+        <sol>messaggio</sol>
+        <tipo></tipo>
+        <descr>messaggio d'amore
+messaggio alla nazione
+messaggio anonimo
+lasciare un messaggio al telefono
+da maratona fu portato il messaggio della vittoria</descr>
+    </gioco>
+    <gioco>
+        <id>230</id>
+        <data>1190757600</data>
+        <def1>macchina</def1>
+        <def2>giro</def2>
+        <def3>cucina</def3>
+        <def4>potere</def4>
+        <def5>visione</def5>
+        <sol>presa</sol>
+        <tipo></tipo>
+        <descr>macchina da presa
+presa in giro
+presa da cucina
+presa del potere
+presa visione</descr>
+    </gioco>
+    <gioco>
+        <id>231</id>
+        <data>1190844000</data>
+        <def1>prova</def1>
+        <def2>contro</def2>
+        <def3>comune</def3>
+        <def4>medio</def4>
+        <def5>atto</def5>
+        <sol>valore</sol>
+        <tipo></tipo>
+        <descr>prova di valore
+controvalore
+volore comune
+valore medio
+atto di valore</descr>
+    </gioco>
+    <gioco>
+        <id>232</id>
+        <data>1191016800</data>
+        <def1>dita</def1>
+        <def2>corso</def2>
+        <def3>basso</def3>
+        <def4>spaghetti</def4>
+        <def5>cassa</def5>
+        <sol>chitarra</sol>
+        <tipo></tipo>
+        <descr>la chitarra i suona con le dita
+corso di chitarra
+chitarra basso
+spaghetti alla chitarra
+la cassa della chitarra</descr>
+    </gioco>
+    <gioco>
+        <id>233</id>
+        <data>1191189600</data>
+        <def1>monti</def1>
+        <def2>critico</def2>
+        <def3>greco</def3>
+        <def4>basso</def4>
+        <def5>legno</def5>
+        <sol>profilo</sol>
+        <tipo></tipo>
+        <descr>il profilo dei monti
+profilo critico
+profilo greco
+di basso profilo
+profilo di legno, per esempio i battenti di una porta</descr>
+    </gioco>
+    <gioco>
+        <id>234</id>
+        <data>1191276000</data>
+        <def1>ora</def1>
+        <def2>cabina</def2>
+        <def3>stanza</def3>
+        <def4>nero</def4>
+        <def5>acqua</def5>
+        <sol>buco</sol>
+        <tipo></tipo>
+        <descr>ora di buco
+buco nella cabina di legno
+quella stanza è un buco
+buco nero
+un buco nell'acqua</descr>
+    </gioco>
+    <gioco>
+        <id>235</id>
+        <data>1191362400</data>
+        <def1>caro</def1>
+        <def2>stazione</def2>
+        <def3>fuoco</def3>
+        <def4>macchia</def4>
+        <def5>buono</def5>
+        <sol>benzina</sol>
+        <tipo></tipo>
+        <descr>caro benzina
+stazione di benzina
+gettare benzina sul fuoco
+la benzina può togliere una macchia
+buono benzina</descr>
+    </gioco>
+    <gioco>
+        <id>236</id>
+        <data>1191448800</data>
+        <def1>olio</def1>
+        <def2>cipolla</def2>
+        <def3>grassi</def3>
+        <def4>coraggio</def4>
+        <def5>oca</def5>
+        <sol>fegato</sol>
+        <tipo></tipo>
+        <descr>olio di fegato di merluzzo
+fegato alla veneziana si fa con la cipolla
+il fegato filtra i grassi
+avere fegato significa avere coraggio
+fegato d'oca
+</descr>
+    </gioco>
+    <gioco>
+        <id>237</id>
+        <data>1191621600</data>
+        <def1>difetto</def1>
+        <def2>dipinto</def2>
+        <def3>danno</def3>
+        <def4>auto</def4>
+        <def5>attestato</def5>
+        <sol>stima</sol>
+        <tipo></tipo>
+        <descr>stima per difetto
+stima del valore di un dipinto
+stima del danno
+autostima
+attestato di stima</descr>
+    </gioco>
+    <gioco>
+        <id>238</id>
+        <data>1191794400</data>
+        <def1>perdere</def1>
+        <def2>oro</def2>
+        <def3>automobile</def3>
+        <def4>goal</def4>
+        <def5>ladro</def5>
+        <sol>occasione</sol>
+        <tipo></tipo>
+        <descr>perdere un'occasione
+occasione d'oro
+automobile d'occasione
+occasione da goal
+l'occasione fa l'uomo ladro</descr>
+    </gioco>
+    <gioco>
+        <id>239</id>
+        <data>1191535200</data>
+        <def1>spugna</def1>
+        <def2>mele</def2>
+        <def3>madre</def3>
+        <def4>bianco</def4>
+        <def5>sotto</def5>
+        <sol>aceto</sol>
+        <tipo></tipo>
+        <descr>nella croce venne data una spugna imbevuta d'aceto a gesù
+aceto di mele
+madre dell'aceto è la parte che rimane nel fondo della bottiglia
+aceto bianco
+sottaceto</descr>
+    </gioco>
+    <gioco>
+        <id>240</id>
+        <data>1191880800</data>
+        <def1>veloci</def1>
+        <def2>bionda</def2>
+        <def3>ottobre</def3>
+        <def4>cento anni</def4>
+        <def5>salsicce</def5>
+        <sol>birra</sol>
+        <tipo></tipo>
+        <descr>veloci si dice anche a tutta birra
+birra bionda
+ad ottobre si svolge la festa della birra a monaco
+chi beve birra campa cent'anni
+birra e salsicce</descr>
+    </gioco>
+    <gioco>
+        <id>241</id>
+        <data>1191967200</data>
+        <def1>dare</def1>
+        <def2>bianco</def2>
+        <def3>aperto</def3>
+        <def4>conquista</def4>
+        <def5>temporale</def5>
+        <sol>spazio</sol>
+        <tipo></tipo>
+        <descr>dare spazio a qualcuno
+spazio bianco
+spazio aperto
+conquista dello spazio
+spazio temporale</descr>
+    </gioco>
+    <gioco>
+        <id>241</id>
+        <data>1192053600</data>
+        <def1>Venere</def1>
+        <def2>Mano</def2>
+        <def3>Verità</def3>
+        <def4>Parete</def4>
+        <def5>Terra</def5>
+        <sol>Nuda</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>242</id>
+        <data>1192226400</data>
+        <def1>giovane</def1>
+        <def2>verbale</def2>
+        <def3>debito</def3>
+        <def4>matrimonio</def4>
+        <def5>marinaio</def5>
+        <sol>promessa</sol>
+        <tipo></tipo>
+        <descr>una giovane promessa
+promessa verbale
+ogni promessa è un debito
+promessa di matrimonio
+promessa di marinaio</descr>
+    </gioco>
+    <gioco>
+        <id>243</id>
+        <data>1192140000</data>
+        <def1>disco</def1>
+        <def2>leva</def2>
+        <def3>mano</def3>
+        <def4>lingua</def4>
+        <def5>mordere</def5>
+        <sol>freno</sol>
+        <tipo></tipo>
+        <descr>disco del freno
+leva del freno
+freno a mano
+tenere a freno la lingua
+mordere il freno</descr>
+    </gioco>
+    <gioco>
+        <id>244</id>
+        <data>1192572000</data>
+        <def1>classe</def1>
+        <def2>vivo</def2>
+        <def3>uomo</def3>
+        <def4>lavoro</def4>
+        <def5>monaco</def5>
+        <sol>abito</sol>
+        <tipo></tipo>
+        <descr>abito di classe
+io abito è sinomimo di io vivo a
+abito da uomo
+abito da lavoro
+l'abito non fa il monaco</descr>
+    </gioco>
+    <gioco>
+        <id>245</id>
+        <data>1192658400</data>
+        <def1>statua</def1>
+        <def2>ali</def2>
+        <def3>lacca</def3>
+        <def4>brutta</def4>
+        <def5>passare</def5>
+        <sol>cera</sol>
+        <tipo></tipo>
+        <descr>statua di cera
+icaro aveva le ali di cera
+ceralacca
+avere una brutta cera
+passare la cera</descr>
+    </gioco>
+    <gioco>
+        <id>246</id>
+        <data>1192744800</data>
+        <def1>inter</def1>
+        <def2>partito</def2>
+        <def3>libertà</def3>
+        <def4>piano</def4>
+        <def5>uomo</def5>
+        <sol>azione</sol>
+        <tipo></tipo>
+        <descr>interazione
+partito d'azione
+libertà d'azione
+piano d'azione
+uomo d'azione</descr>
+    </gioco>
+    <gioco>
+        <id>247</id>
+        <data>1192831200</data>
+        <def1>materasso</def1>
+        <def2>mare</def2>
+        <def3>bagno</def3>
+        <def4>rabbia</def4>
+        <def5>latte</def5>
+        <sol>schiuma</sol>
+        <tipo></tipo>
+        <descr>materasso in schiuma di lattice
+schiuma del mare
+bagnoschiuma
+schiuma di rabbia
+schiuma del latte</descr>
+    </gioco>
+    <gioco>
+        <id>248</id>
+        <data>1193004000</data>
+        <def1>ufficio</def1>
+        <def2>ragione</def2>
+        <def3>pronto</def3>
+        <def4>fuori</def4>
+        <def5>agitare</def5>
+        <sol>uso</sol>
+        <tipo></tipo>
+        <descr>locale uso ufficio
+uso della ragione
+pronto all'uso
+fuori uso
+agitare prima dell'uso</descr>
+    </gioco>
+    <gioco>
+        <id>249</id>
+        <data>1194908400</data>
+        <def1>marinaio</def1>
+        <def2>secco</def2>
+        <def3>fortuna</def3>
+        <def4>gelato</def4>
+        <def5>due volte</def5>
+        <sol>biscotto</sol>
+        <tipo></tipo>
+        <descr>- il biscotto del marinaio sono le gallette
+- biscotto secco
+- I Biscotti della fortuna sono, secondo la tradizione cinese, dei biscottini che al loro interno racchiudono un biglietto contenente un saggio consiglio.
+- il biscotto gelato è un tipo di gelato, per esempio il famoso cucciolone
+- il biscotto si cuoce 2 volte</descr>
+    </gioco>
+    <gioco>
+        <id>250</id>
+        <data>1193090400</data>
+        <def1>vita</def1>
+        <def2>brutta</def2>
+        <def3>automobile</def3>
+        <def4>risposta</def4>
+        <def5>tenere</def5>
+        <sol>botta</sol>
+        <tipo></tipo>
+        <descr>una botta di vita
+prendere una brutta botta
+l'automobile può avere una botta
+botta e risposta
+tenère botta</descr>
+    </gioco>
+    <gioco>
+        <id>251</id>
+        <data>1162767600</data>
+        <def1>svizzera</def1>
+        <def2>sabbia</def2>
+        <def3>cipolla</def3>
+        <def4>ben</def4>
+        <def5>digitale</def5>
+        <sol>orologio</sol>
+        <tipo></tipo>
+        <descr></descr>
+    </gioco>
+    <gioco>
+        <id>252</id>
+        <data>1193176800</data>
+        <def1>animale</def1>
+        <def2>naturale</def2>
+        <def3>bere</def3>
+        <def4>colpo</def4>
+        <def5>nostromo</def5>
+        <sol>spugna</sol>
+        <tipo></tipo>
+        <descr>la spugna è un animale marino
+spugna naturale
+bere come una spugna
+colpo di spugna
+Spugna è il nome del nostromo nella favola di peter pan</descr>
+    </gioco>
+    <gioco>
+        <id>253</id>
+        <data>1193263200</data>
+        <def1>cuore</def1>
+        <def2>punto</def2>
+        <def3>moneta</def3>
+        <def4>carne</def4>
+        <def5>luce</def5>
+        <sol>debole</sol>
+        <tipo></tipo>
+        <descr>debole di cuore
+punto debole
+moneta debole
+la carne è debole
+luce debole</descr>
+    </gioco>
+    <gioco>
+        <id>254</id>
+        <data>1193349600</data>
+        <def1>fuori</def1>
+        <def2>spese</def2>
+        <def3>fisico</def3>
+        <def4>pubblico</def4>
+        <def5>matematica</def5>
+        <sol>esercizio</sol>
+        <tipo></tipo>
+        <descr>fuori esercizio
+spese di esercizio
+esercizio fisico
+un esercizio pubblico
+esercizio di matematica</descr>
+    </gioco>
+    <gioco>
+        <id>255</id>
+        <data>1193436000</data>
+        <def1>giro</def1>
+        <def2>cavallo</def2>
+        <def3>bandiera</def3>
+        <def4>cattiva</def4>
+        <def5>dama</def5>
+        <sol>compagnia</sol>
+        <tipo></tipo>
+        <descr>compagnia del giro, è detta una compagnia teatrale
+compagnia a cavallo
+compagnia di bandiera
+cattiva compagnia
+dama di compagnia</descr>
+    </gioco>
+    <gioco>
+        <id>256</id>
+        <data>1193612400</data>
+        <def1>prova</def1>
+        <def2>cobra</def2>
+        <def3>tartaruga</def3>
+        <def4>goccia</def4>
+        <def5>Elton John</def5>
+        <sol>occhiali</sol>
+        <tipo></tipo>
+        <descr>occhiali di prova
+il cobra dagli occhiali
+occhiali con montatura di tartaruga
+occhiali a goccia
+Elton John ha una collezione di occhiali
+</descr>
+    </gioco>
+    <gioco>
+        <id>257</id>
+        <data>1193698800</data>
+        <def1>punto</def1>
+        <def2>venire</def2>
+        <def3>servizio</def3>
+        <def4>posizione</def4>
+        <def5>istituto</def5>
+        <sol>luce</sol>
+        <tipo></tipo>
+        <descr>punto luce
+venire alla luce
+luce di servizio
+luce di posizione
+istituto luce</descr>
+    </gioco>
+    <gioco>
+        <id>258</id>
+        <data>1193785200</data>
+        <def1>uomo</def1>
+        <def2>parola</def2>
+        <def3>piano</def3>
+        <def4>personale</def4>
+        <def5>ambiente</def5>
+        <sol>difesa</sol>
+        <tipo></tipo>
+        <descr>difesa ad uomo
+la parola alla difesa
+piano di difesa
+per difesa personale
+difesa dell'ambiente</descr>
+    </gioco>
+    <gioco>
+        <id>259</id>
+        <data>1193871600</data>
+        <def1>uomo</def1>
+        <def2>fuori</def2>
+        <def3>sicurezza</def3>
+        <def4>vestito</def4>
+        <def5>vincere</def5>
+        <sol>misura</sol>
+        <tipo></tipo>
+        <descr>a misura d'uomo
+fuori misura
+misura di sicurezza
+vestito su misura
+vincere di misura</descr>
+    </gioco>
+    <gioco>
+        <id>260</id>
+        <data>1194044400</data>
+        <def1>dente</def1>
+        <def2>strada</def2>
+        <def3>panda</def3>
+        <def4>passo</def4>
+        <def5>buono</def5>
+        <sol>gigante</sol>
+        <tipo></tipo>
+        <descr>il 'dente del gigante' è una montagna
+il TIR è detto il gigante della strada
+il panda gigante è il vero nome del panda
+fare un passo da gigante
+il gigante buono</descr>
+    </gioco>
+    <gioco>
+        <id>261</id>
+        <data>1194217200</data>
+        <def1>onda</def1>
+        <def2>sotto</def2>
+        <def3>morale</def3>
+        <def4>miseria</def4>
+        <def5>Bonifacio VIII</def5>
+        <sol>schiaffo</sol>
+        <tipo></tipo>
+        <descr>lo schiaffo dell'onda che si infrange
+stare sotto nel gioco dello schiaffo
+uno schiaffo morale
+uno schiaffo alla miseria
+famoso lo schiaffo di Filippo IV a Bonifacio VIII ad Anagni</descr>
+    </gioco>
+    <gioco>
+        <id>262</id>
+        <data>1194303600</data>
+        <def1>nord</def1>
+        <def2>letto</def2>
+        <def3>comico</def3>
+        <def4>senso</def4>
+        <def5>B</def5>
+        <sol>lato</sol>
+        <tipo></tipo>
+        <descr>lato nord
+a lato del letto
+lato comico di un avvenimento
+in senso lato
+lato B di un disco o di una musicassetta</descr>
+    </gioco>
+    <gioco>
+        <id>263</id>
+        <data>1194390000</data>
+        <def1>caffè</def1>
+        <def2>arte</def2>
+        <def3>pantaloni</def3>
+        <def4>gassman</def4>
+        <def5>casa</def5>
+        <sol>bottega</sol>
+        <tipo></tipo>
+        <descr>caffè bottega&lt;br /&gt;
+bottega d arte&lt;br /&gt;
+la bottega dei pantaloni&lt;br /&gt;
+Gassman fondò la bottega teatrale&lt;br /&gt;
+casa e bottega</descr>
+    </gioco>
+    <gioco>
+        <id>264</id>
+        <data>1194476400</data>
+        <def1>Jekyll</def1>
+        <def2>cortesia</def2>
+        <def3>piena</def3>
+        <def4>tre</def4>
+        <def5>giuramento</def5>
+        <sol>formula</sol>
+        <tipo></tipo>
+        <descr>la formula del dr. Jekyll&lt;br /&gt;
+una formula di cortesia&lt;br /&gt;
+assolto in formula piena&lt;br /&gt;
+i formula tre sono un gruppo musicale&lt;br /&gt;
+formula del giuramento</descr>
+    </gioco>
+    <gioco>
+        <id>265</id>
+        <data>1194562800</data>
+        <def1>fuori</def1>
+        <def2>triangolo</def2>
+        <def3>lavoro</def3>
+        <def4>gioco</def4>
+        <def5>governo</def5>
+        <sol>squadra</sol>
+        <tipo></tipo>
+        <descr>fuori squadra si dice quando qualche mobile o costruzione non e perfettamente in linea&lt;br /&gt;
+la squadra ha la forma di un triangolo&lt;br /&gt;
+squadra di lavoro&lt;br /&gt;
+gioco di squadra&lt;br /&gt;
+squadra di governo</descr>
+    </gioco>
+    <gioco>
+        <id>267</id>
+        <data>1195081200</data>
+        <def1>punto</def1>
+        <def2>carta</def2>
+        <def3>amaro</def3>
+        <def4>inglese</def4>
+        <def5>nero</def5>
+        <sol>riso</sol>
+        <tipo></tipo>
+        <descr>- nel ricamo c'è il punto riso
+- carta di riso
+- riso amaro
+- riso all'inglese
+- il riso nero è un tipo di riso</descr>
+    </gioco>
+	20000000000000000000000000000000000000
+	<gioco>
+        <id>268</id>
+        <data>14/11</data>
+        <def1>bambino</def1>
+        <def2>amicizia</def2>
+        <def3>esame</def3>
+        <def4>artista</def4>
+        <def5>tempo</def5>
+        <sol>prova</sol>
+        <tipo></tipo>
+        <descr>- a prova di bambino
+- prova di amicizia
+- l'esame è una prova
+- prova d'artista
+- prova a tempo</descr>
+    </gioco>
+	<gioco>
+        <id>269</id>
+        <data>27/09</data>
+        <def1>capacità</def1>
+        <def2>avere</def2>
+        <def3>affari</def3>
+        <def4>vita</def4>
+        <def5>distanza</def5>
+        <sol>relazione</sol>
+        <tipo></tipo>
+        <descr>- capacità di relazione
+- avere una relazione
+- relazione d'affari
+- relazione di vita
+- relazione a distanza</descr>
+    </gioco>
+	<gioco>
+        <id>270</id>
+        <data>2/11</data>
+        <def1>esercizio</def1>
+        <def2>errore</def2>
+        <def3>morale</def3>
+        <def4>valere</def4>
+        <def5>cultura</def5>
+        <sol>capitale</sol>
+        <tipo></tipo>
+        <descr>- capitale d'esercizio
+- errore capitale
+- capitale morale
+- valere un capitale
+- una città può essere capitale della cultura</descr>
+	</gioco>
+	<gioco>
+        <id>271</id>
+        <data>4/11</data>
+        <def1>arbitro</def1>
+        <def2>attesa</def2>
+        <def3>ferribotte</def3>
+        <def4>esemplare</def4>
+        <def5>oracolo</def5>
+        <sol>sentenza</sol>
+        <tipo></tipo>
+        <descr>- sentenza dell'arbitro
+- attesa di una sentenza
+- ferribotte è il personaggio di un film, che quando parla è una sentenza
+- sentenza esemplare
+- sentenza dell'oracolo</descr>
+	</gioco>
+	<gioco>
+        <id>272</id>
+        <data>5/11</data>
+        <def1>diventare</def1>
+        <def2>natale</def2>
+        <def3>piave</def3>
+        <def4>artù</def4>
+        <def5>uomini straordinari</def5>
+        <sol>leggenda</sol>
+        <tipo></tipo>
+        <descr>- diventare una leggenda
+- leggenda di Natale, cioè Babbo Natale che porta i regali
+- "la leggenda del Piave" è una canzone
+- la leggenda di re Artù
+- "la leggenda degli uomini straordinari" è un film</descr>
+    </gioco>
+	<gioco>
+        <id>274</id>
+        <data>9/11</data>
+        <def1>acqua</def1>
+        <def2>occhi</def2>
+        <def3>camminare</def3>
+        <def4>luna</def4>
+        <def5>fuoco</def5>
+        <sol>cerchio</sol>
+        <tipo></tipo>
+        <descr>- cerchio nell'acqua
+- cerchio intorno agli occhi (occhiaie)
+- camminare in cerchio
+- cerchio intorno alla luna
+- cerchio di fuoco</descr>
+    </gioco>
+	<gioco>
+        <id>275</id>
+        <data>10/11</data>
+        <def1>verità</def1>
+        <def2>diritti</def2>
+        <def3>dormire</def3>
+        <def4>fumetti</def4>
+        <def5>treviso</def5>
+        <sol>TV</sol>
+        <tipo></tipo>
+        <descr>- verità in tv
+- i diritti tv
+- dormire davanti alla tv
+- i fumetti tv venivano una volta trasmessi
+- TV è la sigla di Treviso</descr>
+    </gioco>
+	<gioco>
+        <id>276</id>
+        <data>13/11</data>
+        <def1>prendere</def1>
+        <def2>altezza</def2>
+        <def3>pesante</def3>
+        <def4>ruolo</def4>
+        <def5>politica</def5>
+        <sol>responsabilità</sol>
+        <tipo></tipo>
+        <descr>- prendersi le responsabilità
+- essere all'altezza delle proprie responsabilità
+- responsabilità pesante
+- ruolo di responsabilità
+- responsabilità politica</descr>
+    </gioco>
+	<gioco>
+        <id>277</id>
+        <data>15/11</data>
+        <def1>richiesta</def1>
+        <def2>area</def2>
+        <def3>terra</def3>
+        <def4>libertà</def4>
+        <def5>qualcosa</def5>
+        <sol>personale</sol>
+        <tipo></tipo>
+        <descr>- richiesta di personale
+- area riservata al personale
+- nelle compagnie aeree, il personale di terra è quello che non lavora sugli aerei
+- libertà personale
+- qualcosa di personale</descr>
+    </gioco>
+    <gioco>
+        <id>278</id>
+        <data>16/11</data>
+        <def1>teoria</def1>
+        <def2>gusto</def2>
+        <def3>dare</def3>
+        <def4>insegnato</def4>
+        <def5>mal</def5>
+        <sol>educazione</sol>
+        <tipo></tipo>
+        <descr>- teoria dell'educazione
+- educazione al gusto, affinare il palato
+- dare l'educazione
+- chi ti ha insegnato l'educazione?
+- maleducazione</descr>
+    </gioco>
+	<gioco>
+        <id>279</id>
+        <data>17/11</data>
+        <def1>lavoro</def1>
+        <def2>passeggeri</def2>
+        <def3>percorso</def3>
+        <def4>sentiero</def4>
+        <def5>barbari</def5>
+        <sol>discesa</sol>
+        <tipo></tipo>
+        <descr>- lavoro in discesa
+- discesa passeggeri
+- percorso in discesa
+- discesa lungo un sentiero
+- discesa dei barbari</descr>
+    </gioco>
+	<gioco>
+        <id>280</id>
+        <data>18/11</data>
+        <def1>inverno</def1>
+        <def2>velo</def2>
+        <def3>piede</def3>
+        <def4>anelli</def4>
+        <def5>vestirsi</def5>
+        <sol>cipolla</sol>
+        <tipo></tipo>
+        <descr>- la cipolla viene abbinata a molti piatti invernali
+- un velo di cipolla, ossia la sua buccia
+- l'alluce valgo al piede viene volgarmente chiamato cipolla
+- anelli di cipolla
+- vestirsi a cipolla, ossia con più strati per stare più caldi</descr>
+    </gioco>
+	<gioco>
+        <id>281</id>
+        <data>19/11</data>
+        <def1>tempo</def1>
+        <def2>più</def2>
+        <def3>mano</def3>
+        <def4>misura</def4>
+        <def5>buona</def5>
+        <sol>prima</sol>
+        <tipo></tipo>
+        <descr>- prima del tempo
+- come prima, più di prima t'amerò
+- prima mano
+- prima misura
+- buona la prima</descr>
+    </gioco>
+	<gioco>
+        <id>282</id>
+        <data>20/11</data>
+        <def1>uomo</def1>
+        <def2>fuoco</def2>
+        <def3>amore</def3>
+        <def4>aprire</def4>
+        <def5>chiare</def5>
+        <sol>lettere</sol>
+        <tipo></tipo>
+        <descr>- uomo di lettere
+- lettere di fuoco
+- lettere d'amore
+- aprire le lettere per leggerle
+- parlare a chiare lettere</descr>
+    </gioco>
+	<gioco>
+        <id>283</id>
+        <data>3/11</data>
+        <def1>foto</def1>
+        <def2>macchina</def2>
+        <def3>pace</def3>
+        <def4>salute</def4>
+        <def5>rigore</def5>
+        <sol>movimento</sol>
+        <tipo></tipo>
+        <descr>- foto in movimento
+- movimento della macchina
+- movimento di pace
+- il movimento giova alla salute
+- battere un rigore in movimento</descr>
+    </gioco>
+	<gioco>
+        <id>284</id>
+        <data>01/11</data>
+        <def1>aprire</def1>
+        <def2>temporale</def2>
+        <def3>guerre</def3>
+        <def4>tassa</def4>
+        <def5>rapida</def5>
+        <sol>successione</sol>
+        <tipo></tipo>
+        <descr>- aprire una successione
+- successione temporale
+- guerre di successione
+- tassa di successione, che gli eredi pagano quando qualcuno muore
+- rapida successione</descr>
+    </gioco>
+	<gioco>
+        <id>285</id>
+        <data>02/05</data>
+        <def1>consiglio</def1>
+        <def2>fontane</def2>
+        <def3>foglio</def3>
+        <def4>campane</def4>
+        <def5>passi</def5>
+        <sol>cento</sol>
+        <tipo></tipo>
+        <descr>- consiglio dei cento
+- viale delle cento fontane
+- foglio da cento, ossia banconota da 100€
+- "cento campane" è una canzone
+- "i cento passi" è un film</descr>
+    </gioco>
+	<gioco>
+        <id>286</id>
+        <data>02/02</data>
+        <def1>segnale</def1>
+        <def2>centrale</def2>
+        <def3>assumere</def3>
+        <def4>operazioni</def4>
+        <def5>partito</def5>
+        <sol>direzione</sol>
+        <tipo></tipo>
+        <descr>- il segnale di direzione è la freccia della macchina
+- direzione centrale
+- assumere la direzione
+- direzione delle operazioni
+- direzione di partito</descr>
+    </gioco>
+	<gioco>
+        <id>287</id>
+        <data>07/05</data>
+        <def1>valore</def1>
+        <def2>piacere</def2>
+        <def3>tutta</def3>
+        <def4>intenti</def4>
+        <def5>rara</def5>
+        <sol>onestà</sol>
+        <tipo></tipo>
+        <descr>- il valore dell'onestà
+- il piacere dell'onestà
+- in tutta onestà
+- onestà d'intenti
+- rara onestà</descr>
+    </gioco>
+	<gioco>
+        <id>288</id>
+        <data>22/01</data>
+        <def1>acqua</def1>
+        <def2>fatti</def2>
+        <def3>teoria</def3>
+        <def4>società</def4>
+        <def5>potere</def5>
+        <sol>giochi</sol>
+        <tipo></tipo>
+        <descr>- giochi d'acqua
+- a giochi fatti
+- teoria dei giochi
+- giochi di società
+- "giochi di potere" è un film</descr>
+    </gioco>
+	
+	
+	
+	
+</Sql116607_2>
